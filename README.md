@@ -6,8 +6,8 @@ This project uses MongoDB to simulate a sales and inventory tracking system for 
 - Data generation using Python and Faker
 - CRUD operations
 - Aggregation pipelines for business insights
-
-Inventory and sales management
+- Inventory and sales management
+  
 ---
 ##  Project Setup Instructions
 ### Install Dependencies 
