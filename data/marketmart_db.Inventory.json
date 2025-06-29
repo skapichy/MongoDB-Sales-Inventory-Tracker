@@ -1,0 +1,451 @@
+[{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e398"
+  },
+  "productID": "PROD001",
+  "stockLevel": 135,
+  "reorderLevel": 13,
+  "lastRestocked": {
+    "$date": "2025-06-28T15:54:50.016Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e399"
+  },
+  "productID": "PROD002",
+  "stockLevel": 190,
+  "reorderLevel": 34,
+  "lastRestocked": {
+    "$date": "2025-06-21T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e39a"
+  },
+  "productID": "PROD003",
+  "stockLevel": 125,
+  "reorderLevel": 49,
+  "lastRestocked": {
+    "$date": "2025-05-27T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e39b"
+  },
+  "productID": "PROD004",
+  "stockLevel": 54,
+  "reorderLevel": 19,
+  "lastRestocked": {
+    "$date": "2025-06-08T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e39c"
+  },
+  "productID": "PROD005",
+  "stockLevel": 159,
+  "reorderLevel": 44,
+  "lastRestocked": {
+    "$date": "2025-05-25T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e39d"
+  },
+  "productID": "PROD006",
+  "stockLevel": 107,
+  "reorderLevel": 15,
+  "lastRestocked": {
+    "$date": "2025-06-18T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e39e"
+  },
+  "productID": "PROD007",
+  "stockLevel": 87,
+  "reorderLevel": 45,
+  "lastRestocked": {
+    "$date": "2025-06-04T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e39f"
+  },
+  "productID": "PROD008",
+  "stockLevel": 49,
+  "reorderLevel": 19,
+  "lastRestocked": {
+    "$date": "2025-06-01T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a0"
+  },
+  "productID": "PROD009",
+  "stockLevel": 162,
+  "reorderLevel": 49,
+  "lastRestocked": {
+    "$date": "2025-06-16T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a1"
+  },
+  "productID": "PROD010",
+  "stockLevel": 171,
+  "reorderLevel": 20,
+  "lastRestocked": {
+    "$date": "2025-06-15T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a2"
+  },
+  "productID": "PROD011",
+  "stockLevel": 182,
+  "reorderLevel": 30,
+  "lastRestocked": {
+    "$date": "2025-06-15T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a3"
+  },
+  "productID": "PROD012",
+  "stockLevel": 157,
+  "reorderLevel": 10,
+  "lastRestocked": {
+    "$date": "2025-06-06T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a4"
+  },
+  "productID": "PROD013",
+  "stockLevel": 136,
+  "reorderLevel": 44,
+  "lastRestocked": {
+    "$date": "2025-06-14T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a5"
+  },
+  "productID": "PROD014",
+  "stockLevel": 165,
+  "reorderLevel": 33,
+  "lastRestocked": {
+    "$date": "2025-06-09T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a6"
+  },
+  "productID": "PROD015",
+  "stockLevel": 191,
+  "reorderLevel": 30,
+  "lastRestocked": {
+    "$date": "2025-05-25T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a7"
+  },
+  "productID": "PROD016",
+  "stockLevel": 122,
+  "reorderLevel": 49,
+  "lastRestocked": {
+    "$date": "2025-06-19T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a8"
+  },
+  "productID": "PROD017",
+  "stockLevel": 52,
+  "reorderLevel": 24,
+  "lastRestocked": {
+    "$date": "2025-06-06T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3a9"
+  },
+  "productID": "PROD018",
+  "stockLevel": 177,
+  "reorderLevel": 20,
+  "lastRestocked": {
+    "$date": "2025-06-03T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3aa"
+  },
+  "productID": "PROD019",
+  "stockLevel": 185,
+  "reorderLevel": 35,
+  "lastRestocked": {
+    "$date": "2025-05-24T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3ab"
+  },
+  "productID": "PROD020",
+  "stockLevel": 99,
+  "reorderLevel": 28,
+  "lastRestocked": {
+    "$date": "2025-06-09T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3ac"
+  },
+  "productID": "PROD021",
+  "stockLevel": 101,
+  "reorderLevel": 14,
+  "lastRestocked": {
+    "$date": "2025-06-12T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3ad"
+  },
+  "productID": "PROD022",
+  "stockLevel": 173,
+  "reorderLevel": 35,
+  "lastRestocked": {
+    "$date": "2025-06-12T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3ae"
+  },
+  "productID": "PROD023",
+  "stockLevel": 113,
+  "reorderLevel": 26,
+  "lastRestocked": {
+    "$date": "2025-05-31T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3af"
+  },
+  "productID": "PROD024",
+  "stockLevel": 122,
+  "reorderLevel": 36,
+  "lastRestocked": {
+    "$date": "2025-05-30T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b0"
+  },
+  "productID": "PROD025",
+  "stockLevel": 132,
+  "reorderLevel": 32,
+  "lastRestocked": {
+    "$date": "2025-06-12T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b1"
+  },
+  "productID": "PROD026",
+  "stockLevel": 150,
+  "reorderLevel": 13,
+  "lastRestocked": {
+    "$date": "2025-06-02T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b2"
+  },
+  "productID": "PROD027",
+  "stockLevel": 192,
+  "reorderLevel": 17,
+  "lastRestocked": {
+    "$date": "2025-06-17T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b3"
+  },
+  "productID": "PROD028",
+  "stockLevel": 151,
+  "reorderLevel": 16,
+  "lastRestocked": {
+    "$date": "2025-06-03T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b4"
+  },
+  "productID": "PROD029",
+  "stockLevel": 122,
+  "reorderLevel": 16,
+  "lastRestocked": {
+    "$date": "2025-05-26T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b5"
+  },
+  "productID": "PROD030",
+  "stockLevel": 118,
+  "reorderLevel": 35,
+  "lastRestocked": {
+    "$date": "2025-06-03T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b6"
+  },
+  "productID": "PROD031",
+  "stockLevel": 153,
+  "reorderLevel": 16,
+  "lastRestocked": {
+    "$date": "2025-06-14T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b7"
+  },
+  "productID": "PROD032",
+  "stockLevel": 46,
+  "reorderLevel": 43,
+  "lastRestocked": {
+    "$date": "2025-06-01T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b8"
+  },
+  "productID": "PROD033",
+  "stockLevel": 79,
+  "reorderLevel": 42,
+  "lastRestocked": {
+    "$date": "2025-06-04T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3b9"
+  },
+  "productID": "PROD034",
+  "stockLevel": 110,
+  "reorderLevel": 10,
+  "lastRestocked": {
+    "$date": "2025-06-13T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3ba"
+  },
+  "productID": "PROD035",
+  "stockLevel": 151,
+  "reorderLevel": 47,
+  "lastRestocked": {
+    "$date": "2025-05-31T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3bb"
+  },
+  "productID": "PROD036",
+  "stockLevel": 125,
+  "reorderLevel": 33,
+  "lastRestocked": {
+    "$date": "2025-05-24T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3bc"
+  },
+  "productID": "PROD037",
+  "stockLevel": 38,
+  "reorderLevel": 49,
+  "lastRestocked": {
+    "$date": "2025-05-28T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3bd"
+  },
+  "productID": "PROD038",
+  "stockLevel": 60,
+  "reorderLevel": 48,
+  "lastRestocked": {
+    "$date": "2025-06-08T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3be"
+  },
+  "productID": "PROD039",
+  "stockLevel": 93,
+  "reorderLevel": 43,
+  "lastRestocked": {
+    "$date": "2025-05-29T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3bf"
+  },
+  "productID": "PROD040",
+  "stockLevel": 122,
+  "reorderLevel": 16,
+  "lastRestocked": {
+    "$date": "2025-06-08T06:54:42.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6858ec228f1e5a54d932e3c0"
+  },
+  "productID": "PROD041",
+  "stockLevel": 158,
+  "reorderLevel": 38,
+  "lastRestocked": {
+    "$date": "2025-06-15T06:54:42.020Z"
+  }
+}]

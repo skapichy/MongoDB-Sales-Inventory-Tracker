@@ -1,0 +1,552 @@
+[{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e384"
+  },
+  "customerID": "CUST001",
+  "firstName": "William",
+  "lastName": "Cooley",
+  "email": "wmoore@example.com",
+  "phone": "5087333253",
+  "gender": "female",
+  "dateOfBirth": {
+    "$date": "1972-10-19T00:00:00.000Z"
+  },
+  "address": {
+    "street": "61868 Shari Road Apt. 916",
+    "city": "Port Ashleyland",
+    "state": "Indiana",
+    "postalCode": "17560",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2025-04-18T18:41:55.263Z"
+  },
+  "loyaltyPoints": 39,
+  "isActive": true,
+  "preferredPaymentMethod": "card"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e385"
+  },
+  "customerID": "CUST002",
+  "firstName": "Aaron",
+  "lastName": "Travis",
+  "email": "vcarrillo@example.org",
+  "phone": "461-781-4054",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": "1987-03-07T00:00:00.000Z"
+  },
+  "address": {
+    "street": "15034 George Mills",
+    "city": "West Sheilashire",
+    "state": "Oregon",
+    "postalCode": "21750",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2023-08-26T18:41:55.263Z"
+  },
+  "loyaltyPoints": 381,
+  "isActive": true,
+  "preferredPaymentMethod": "transfer"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e386"
+  },
+  "customerID": "CUST003",
+  "firstName": "Keith",
+  "lastName": "Alexander",
+  "email": "davenportnicholas@example.com",
+  "phone": "(329)357-7780",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": "2004-11-15T00:00:00.000Z"
+  },
+  "address": {
+    "street": "42754 Leon Spurs Suite 751",
+    "city": "New Alicia",
+    "state": "Montana",
+    "postalCode": "09714",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-02-19T18:41:55.265Z"
+  },
+  "loyaltyPoints": 108,
+  "isActive": true,
+  "preferredPaymentMethod": "card"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e387"
+  },
+  "customerID": "CUST004",
+  "firstName": "Cheryl",
+  "lastName": "Sims",
+  "email": "kingchristian@example.org",
+  "phone": "(683)646-2052",
+  "gender": "female",
+  "dateOfBirth": {
+    "$date": "1976-09-06T00:00:00.000Z"
+  },
+  "address": {
+    "street": "5953 James Estate",
+    "city": "East Katherine",
+    "state": "New York",
+    "postalCode": "34546",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-04-08T18:41:55.265Z"
+  },
+  "loyaltyPoints": 156,
+  "isActive": true,
+  "preferredPaymentMethod": "transfer"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e388"
+  },
+  "customerID": "CUST005",
+  "firstName": "Jeffrey",
+  "lastName": "Davis",
+  "email": "jeffreydillon@example.org",
+  "phone": "(989)591-4498x6952",
+  "gender": "female",
+  "dateOfBirth": {
+    "$date": "1977-03-10T00:00:00.000Z"
+  },
+  "address": {
+    "street": "952 Shannon Meadows",
+    "city": "West Robert",
+    "state": "New Hampshire",
+    "postalCode": "09847",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-06-23T18:41:55.265Z"
+  },
+  "loyaltyPoints": 161,
+  "isActive": true,
+  "preferredPaymentMethod": "cash"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e389"
+  },
+  "customerID": "CUST006",
+  "firstName": "Gregory",
+  "lastName": "West",
+  "email": "laurenallen@example.com",
+  "phone": "404.337.5408",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": "1981-09-23T00:00:00.000Z"
+  },
+  "address": {
+    "street": "894 Martin Square",
+    "city": "Port Ryan",
+    "state": "Missouri",
+    "postalCode": "15295",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2025-03-27T18:41:55.266Z"
+  },
+  "loyaltyPoints": 156,
+  "isActive": true,
+  "preferredPaymentMethod": "card"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e38a"
+  },
+  "customerID": "CUST007",
+  "firstName": "James",
+  "lastName": "Liu",
+  "email": "elliskara@example.org",
+  "phone": "9812288961",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": "1980-12-05T00:00:00.000Z"
+  },
+  "address": {
+    "street": "14377 Kimberly Groves",
+    "city": "East Vickie",
+    "state": "Colorado",
+    "postalCode": "58660",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2025-03-28T18:41:55.267Z"
+  },
+  "loyaltyPoints": 269,
+  "isActive": true,
+  "preferredPaymentMethod": "card"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e38b"
+  },
+  "customerID": "CUST008",
+  "firstName": "Robert",
+  "lastName": "Davis",
+  "email": "michaelchase@example.org",
+  "phone": "001-919-417-2574x22029",
+  "gender": "female",
+  "dateOfBirth": {
+    "$date": "1987-09-10T00:00:00.000Z"
+  },
+  "address": {
+    "street": "43211 Lee Drives",
+    "city": "Lifurt",
+    "state": "Montana",
+    "postalCode": "99902",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2025-04-05T18:41:55.267Z"
+  },
+  "loyaltyPoints": 188,
+  "isActive": true,
+  "preferredPaymentMethod": "transfer"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e38c"
+  },
+  "customerID": "CUST009",
+  "firstName": "Robert",
+  "lastName": "Bender",
+  "email": "jonathan53@example.net",
+  "phone": "001-729-485-7195",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": "2000-10-15T00:00:00.000Z"
+  },
+  "address": {
+    "street": "4907 Claire Drive",
+    "city": "Johnsonfort",
+    "state": "South Carolina",
+    "postalCode": "30898",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2023-06-26T18:41:55.267Z"
+  },
+  "loyaltyPoints": 127,
+  "isActive": true,
+  "preferredPaymentMethod": "transfer"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e38d"
+  },
+  "customerID": "CUST010",
+  "firstName": "Melvin",
+  "lastName": "Collins",
+  "email": "bherrera@example.org",
+  "phone": "(496)821-0770x93743",
+  "gender": "female",
+  "dateOfBirth": {
+    "$date": "1997-11-25T00:00:00.000Z"
+  },
+  "address": {
+    "street": "61787 Harvey Curve Suite 879",
+    "city": "Stephanieberg",
+    "state": "Mississippi",
+    "postalCode": "64796",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-03-03T18:41:55.268Z"
+  },
+  "loyaltyPoints": 17,
+  "isActive": true,
+  "preferredPaymentMethod": "transfer"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e38e"
+  },
+  "customerID": "CUST011",
+  "firstName": "Michael",
+  "lastName": "Garcia",
+  "email": "dickersondakota@example.net",
+  "phone": "714-330-7401",
+  "gender": "female",
+  "dateOfBirth": {
+    "$date": "1981-11-08T00:00:00.000Z"
+  },
+  "address": {
+    "street": "3064 Joanne Road Apt. 512",
+    "city": "North Samanthaside",
+    "state": "Vermont",
+    "postalCode": "30143",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-03-17T18:41:55.268Z"
+  },
+  "loyaltyPoints": 184,
+  "isActive": true,
+  "preferredPaymentMethod": "cash"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e38f"
+  },
+  "customerID": "CUST012",
+  "firstName": "Patrick",
+  "lastName": "Anderson",
+  "email": "andrea39@example.net",
+  "phone": "652-446-9062",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-164073600000"
+    }
+  },
+  "address": {
+    "street": "587 Middleton Camp Suite 821",
+    "city": "Smithshire",
+    "state": "Maine",
+    "postalCode": "60180",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-08-24T18:41:55.269Z"
+  },
+  "loyaltyPoints": 321,
+  "isActive": true,
+  "preferredPaymentMethod": "cash"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e390"
+  },
+  "customerID": "CUST013",
+  "firstName": "Eric",
+  "lastName": "Sims",
+  "email": "lambevan@example.com",
+  "phone": "+1-673-542-7718x296",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": "1992-01-16T00:00:00.000Z"
+  },
+  "address": {
+    "street": "860 Gregory Trafficway Apt. 488",
+    "city": "Mikeberg",
+    "state": "Rhode Island",
+    "postalCode": "63730",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2023-09-29T18:41:55.269Z"
+  },
+  "loyaltyPoints": 202,
+  "isActive": true,
+  "preferredPaymentMethod": "card"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e391"
+  },
+  "customerID": "CUST014",
+  "firstName": "Timothy",
+  "lastName": "Barrett",
+  "email": "gomezrachel@example.com",
+  "phone": "201.921.4603x00381",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-223689600000"
+    }
+  },
+  "address": {
+    "street": "90078 Hannah Spurs Apt. 987",
+    "city": "Lake Brittanyberg",
+    "state": "Michigan",
+    "postalCode": "09245",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-06-04T18:41:55.270Z"
+  },
+  "loyaltyPoints": 105,
+  "isActive": true,
+  "preferredPaymentMethod": "card"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e392"
+  },
+  "customerID": "CUST015",
+  "firstName": "Morgan",
+  "lastName": "Bell",
+  "email": "omora@example.org",
+  "phone": "8015186612",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-36201600000"
+    }
+  },
+  "address": {
+    "street": "27233 Lee Wall Suite 049",
+    "city": "Powellland",
+    "state": "Maine",
+    "postalCode": "88114",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2023-05-04T18:41:55.271Z"
+  },
+  "loyaltyPoints": 375,
+  "isActive": true,
+  "preferredPaymentMethod": "transfer"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e393"
+  },
+  "customerID": "CUST016",
+  "firstName": "Austin",
+  "lastName": "Henderson",
+  "email": "zachary69@example.org",
+  "phone": "001-320-921-4951x982",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-6566400000"
+    }
+  },
+  "address": {
+    "street": "0807 Richard Meadows Suite 038",
+    "city": "East Edwardhaven",
+    "state": "Florida",
+    "postalCode": "30690",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-08-05T18:41:55.271Z"
+  },
+  "loyaltyPoints": 399,
+  "isActive": true,
+  "preferredPaymentMethod": "card"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e394"
+  },
+  "customerID": "CUST017",
+  "firstName": "Donald",
+  "lastName": "Wallace",
+  "email": "zyoung@example.com",
+  "phone": "(516)442-7539",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": "1993-03-15T00:00:00.000Z"
+  },
+  "address": {
+    "street": "29814 Chloe Gardens",
+    "city": "Gilbertmouth",
+    "state": "West Virginia",
+    "postalCode": "81598",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-02-14T18:41:55.272Z"
+  },
+  "loyaltyPoints": 147,
+  "isActive": true,
+  "preferredPaymentMethod": "card"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e395"
+  },
+  "customerID": "CUST018",
+  "firstName": "Jesse",
+  "lastName": "Campbell",
+  "email": "garybishop@example.com",
+  "phone": "(717)392-1735x94416",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": "1977-10-18T00:00:00.000Z"
+  },
+  "address": {
+    "street": "76962 Willis Trail Apt. 602",
+    "city": "South Jeffreyview",
+    "state": "Oregon",
+    "postalCode": "18558",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2023-08-18T18:41:55.273Z"
+  },
+  "loyaltyPoints": 26,
+  "isActive": true,
+  "preferredPaymentMethod": "card"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e396"
+  },
+  "customerID": "CUST019",
+  "firstName": "Erin",
+  "lastName": "Levy",
+  "email": "jenniferhernandez@example.com",
+  "phone": "001-470-960-4142x067",
+  "gender": "female",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-227664000000"
+    }
+  },
+  "address": {
+    "street": "292 Angela Spur",
+    "city": "Ericberg",
+    "state": "West Virginia",
+    "postalCode": "88918",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-12-22T18:41:55.274Z"
+  },
+  "loyaltyPoints": 60,
+  "isActive": true,
+  "preferredPaymentMethod": "transfer"
+},
+{
+  "_id": {
+    "$oid": "685840638f1e5a54d932e397"
+  },
+  "customerID": "CUST020",
+  "firstName": "John",
+  "lastName": "Tucker",
+  "email": "melissa96@example.com",
+  "phone": "323.874.9693",
+  "gender": "male",
+  "dateOfBirth": {
+    "$date": {
+      "$numberLong": "-94780800000"
+    }
+  },
+  "address": {
+    "street": "70894 Heather Estate Apt. 109",
+    "city": "Samanthaville",
+    "state": "West Virginia",
+    "postalCode": "56421",
+    "country": "Nigeria"
+  },
+  "joinedDate": {
+    "$date": "2024-04-06T18:41:55.274Z"
+  },
+  "loyaltyPoints": 101,
+  "isActive": true,
+  "preferredPaymentMethod": "transfer"
+}]

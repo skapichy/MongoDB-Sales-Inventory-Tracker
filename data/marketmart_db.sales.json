@@ -1,0 +1,989 @@
+[{
+  "_id": 1,
+  "sales_id": "SAL_01",
+  "customerID": "CUST005",
+  "items": [
+    {
+      "productID": "PROD001",
+      "quantity": 2,
+      "unitprice": 100
+    }
+  ],
+  "totalAmount": 200,
+  "salesDate": {
+    "$date": "2023-01-01T13:50:31.000Z"
+  },
+  "paymentMethod": "Cash"
+},
+{
+  "_id": 2,
+  "sales_id": "SAL_021",
+  "customerID": "CUST007",
+  "items": [
+    {
+      "productID": "PROD019",
+      "quantity": 1,
+      "unitprice": 426.03,
+      "totalAmount": 426.03
+    }
+  ],
+  "totalAmount": 426.03,
+  "salesDate": {
+    "$date": "2024-08-20T13:45:20.971Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 3,
+  "sales_id": "SAL_022",
+  "customerID": "CUST020",
+  "items": [
+    {
+      "productID": "PROD016",
+      "quantity": 3,
+      "unitprice": 601.41,
+      "totalAmount": 1804.23
+    }
+  ],
+  "totalAmount": 1804.23,
+  "salesDate": {
+    "$date": "2024-01-26T13:45:20.972Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 4,
+  "sales_id": "SAL_023",
+  "customerID": "CUST001",
+  "items": [
+    {
+      "productID": "PROD012",
+      "quantity": 1,
+      "unitprice": 1018.08,
+      "totalAmount": 1018.08
+    }
+  ],
+  "totalAmount": 1018.08,
+  "salesDate": {
+    "$date": "2024-11-01T13:45:20.973Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 5,
+  "sales_id": "SAL_024",
+  "customerID": "CUST015",
+  "items": [
+    {
+      "productID": "PROD014",
+      "quantity": 4,
+      "unitprice": 226.03,
+      "totalAmount": 904.12
+    }
+  ],
+  "totalAmount": 904.12,
+  "salesDate": {
+    "$date": "2024-09-29T13:45:20.975Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 6,
+  "sales_id": "SAL_025",
+  "customerID": "CUST012",
+  "items": [
+    {
+      "productID": "PROD031",
+      "quantity": 3,
+      "unitprice": 700.61,
+      "totalAmount": 2101.83
+    }
+  ],
+  "totalAmount": 2101.83,
+  "salesDate": {
+    "$date": "2023-12-29T13:45:20.975Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 7,
+  "sales_id": "SAL_026",
+  "customerID": "CUST009",
+  "items": [
+    {
+      "productID": "PROD031",
+      "quantity": 1,
+      "unitprice": 700.61,
+      "totalAmount": 700.61
+    }
+  ],
+  "totalAmount": 700.61,
+  "salesDate": {
+    "$date": "2024-03-11T13:45:20.976Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 8,
+  "sales_id": "SAL_027",
+  "customerID": "CUST006",
+  "items": [
+    {
+      "productID": "PROD041",
+      "quantity": 4,
+      "unitprice": 1373.37,
+      "totalAmount": 5493.48
+    }
+  ],
+  "totalAmount": 5493.48,
+  "salesDate": {
+    "$date": "2024-11-21T13:45:20.977Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 9,
+  "sales_id": "SAL_028",
+  "customerID": "CUST008",
+  "items": [
+    {
+      "productID": "PROD004",
+      "quantity": 2,
+      "unitprice": 1200.92,
+      "totalAmount": 2401.84
+    }
+  ],
+  "totalAmount": 2401.84,
+  "salesDate": {
+    "$date": "2024-09-24T13:45:20.977Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 10,
+  "sales_id": "SAL_029",
+  "customerID": "CUST019",
+  "items": [
+    {
+      "productID": "PROD002",
+      "quantity": 2,
+      "unitprice": 313.64,
+      "totalAmount": 627.28
+    }
+  ],
+  "totalAmount": 627.28,
+  "salesDate": {
+    "$date": "2023-07-18T13:45:20.978Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 11,
+  "sales_id": "SAL_0210",
+  "customerID": "CUST002",
+  "items": [
+    {
+      "productID": "PROD007",
+      "quantity": 2,
+      "unitprice": 505.9,
+      "totalAmount": 1011.8
+    }
+  ],
+  "totalAmount": 1011.8,
+  "salesDate": {
+    "$date": "2025-03-28T13:45:20.979Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 12,
+  "sales_id": "SAL_0211",
+  "customerID": "CUST013",
+  "items": [
+    {
+      "productID": "PROD007",
+      "quantity": 4,
+      "unitprice": 505.9,
+      "totalAmount": 2023.6
+    }
+  ],
+  "totalAmount": 2023.6,
+  "salesDate": {
+    "$date": "2023-10-29T13:45:20.980Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 13,
+  "sales_id": "SAL_0212",
+  "customerID": "CUST009",
+  "items": [
+    {
+      "productID": "PROD009",
+      "quantity": 3,
+      "unitprice": 268.16,
+      "totalAmount": 804.48
+    }
+  ],
+  "totalAmount": 804.48,
+  "salesDate": {
+    "$date": "2024-05-18T13:45:20.981Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 14,
+  "sales_id": "SAL_0213",
+  "customerID": "CUST013",
+  "items": [
+    {
+      "productID": "PROD030",
+      "quantity": 3,
+      "unitprice": 482,
+      "totalAmount": 1446
+    }
+  ],
+  "totalAmount": 1446,
+  "salesDate": {
+    "$date": "2024-01-06T13:45:20.983Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 15,
+  "sales_id": "SAL_0214",
+  "customerID": "CUST016",
+  "items": [
+    {
+      "productID": "PROD034",
+      "quantity": 2,
+      "unitprice": 351.38,
+      "totalAmount": 702.76
+    }
+  ],
+  "totalAmount": 702.76,
+  "salesDate": {
+    "$date": "2024-05-24T13:45:20.984Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 16,
+  "sales_id": "SAL_0215",
+  "customerID": "CUST018",
+  "items": [
+    {
+      "productID": "PROD020",
+      "quantity": 2,
+      "unitprice": 1012.97,
+      "totalAmount": 2025.94
+    }
+  ],
+  "totalAmount": 2025.94,
+  "salesDate": {
+    "$date": "2023-12-04T13:45:20.985Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 17,
+  "sales_id": "SAL_0216",
+  "customerID": "CUST009",
+  "items": [
+    {
+      "productID": "PROD020",
+      "quantity": 1,
+      "unitprice": 1012.97,
+      "totalAmount": 1012.97
+    }
+  ],
+  "totalAmount": 1012.97,
+  "salesDate": {
+    "$date": "2023-12-06T13:45:20.987Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 18,
+  "sales_id": "SAL_0217",
+  "customerID": "CUST010",
+  "items": [
+    {
+      "productID": "PROD025",
+      "quantity": 3,
+      "unitprice": 345.33,
+      "totalAmount": 1035.99
+    }
+  ],
+  "totalAmount": 1035.99,
+  "salesDate": {
+    "$date": "2025-05-09T13:45:20.988Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 19,
+  "sales_id": "SAL_0218",
+  "customerID": "CUST019",
+  "items": [
+    {
+      "productID": "PROD010",
+      "quantity": 1,
+      "unitprice": 508.39,
+      "totalAmount": 508.39
+    }
+  ],
+  "totalAmount": 508.39,
+  "salesDate": {
+    "$date": "2024-09-15T13:45:20.989Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 20,
+  "sales_id": "SAL_0219",
+  "customerID": "CUST018",
+  "items": [
+    {
+      "productID": "PROD028",
+      "quantity": 2,
+      "unitprice": 349.69,
+      "totalAmount": 699.38
+    }
+  ],
+  "totalAmount": 699.38,
+  "salesDate": {
+    "$date": "2024-09-24T13:45:20.990Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 21,
+  "sales_id": "SAL_0220",
+  "customerID": "CUST017",
+  "items": [
+    {
+      "productID": "PROD011",
+      "quantity": 2,
+      "unitprice": 748.49,
+      "totalAmount": 1496.98
+    }
+  ],
+  "totalAmount": 1496.98,
+  "salesDate": {
+    "$date": "2024-06-13T13:45:20.991Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 22,
+  "sales_id": "SAL_0221",
+  "customerID": "CUST011",
+  "items": [
+    {
+      "productID": "PROD030",
+      "quantity": 1,
+      "unitprice": 482,
+      "totalAmount": 482
+    }
+  ],
+  "totalAmount": 482,
+  "salesDate": {
+    "$date": "2024-10-12T13:45:20.992Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 23,
+  "sales_id": "SAL_0222",
+  "customerID": "CUST003",
+  "items": [
+    {
+      "productID": "PROD021",
+      "quantity": 3,
+      "unitprice": 749.69,
+      "totalAmount": 2249.07
+    }
+  ],
+  "totalAmount": 2249.07,
+  "salesDate": {
+    "$date": "2025-01-15T13:45:20.993Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 24,
+  "sales_id": "SAL_0223",
+  "customerID": "CUST007",
+  "items": [
+    {
+      "productID": "PROD037",
+      "quantity": 4,
+      "unitprice": 924.87,
+      "totalAmount": 3699.48
+    }
+  ],
+  "totalAmount": 3699.48,
+  "salesDate": {
+    "$date": "2023-11-05T13:45:20.994Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 25,
+  "sales_id": "SAL_0224",
+  "customerID": "CUST002",
+  "items": [
+    {
+      "productID": "PROD004",
+      "quantity": 1,
+      "unitprice": 1200.92,
+      "totalAmount": 1200.92
+    }
+  ],
+  "totalAmount": 1200.92,
+  "salesDate": {
+    "$date": "2024-01-31T13:45:20.995Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 26,
+  "sales_id": "SAL_0225",
+  "customerID": "CUST012",
+  "items": [
+    {
+      "productID": "PROD030",
+      "quantity": 2,
+      "unitprice": 482,
+      "totalAmount": 964
+    }
+  ],
+  "totalAmount": 964,
+  "salesDate": {
+    "$date": "2024-11-04T13:45:20.995Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 27,
+  "sales_id": "SAL_0226",
+  "customerID": "CUST003",
+  "items": [
+    {
+      "productID": "PROD035",
+      "quantity": 2,
+      "unitprice": 802.21,
+      "totalAmount": 1604.42
+    }
+  ],
+  "totalAmount": 1604.42,
+  "salesDate": {
+    "$date": "2023-10-02T13:45:20.996Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 28,
+  "sales_id": "SAL_0227",
+  "customerID": "CUST012",
+  "items": [
+    {
+      "productID": "PROD033",
+      "quantity": 2,
+      "unitprice": 866.23,
+      "totalAmount": 1732.46
+    }
+  ],
+  "totalAmount": 1732.46,
+  "salesDate": {
+    "$date": "2025-03-13T13:45:20.997Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 29,
+  "sales_id": "SAL_0228",
+  "customerID": "CUST009",
+  "items": [
+    {
+      "productID": "PROD035",
+      "quantity": 2,
+      "unitprice": 802.21,
+      "totalAmount": 1604.42
+    }
+  ],
+  "totalAmount": 1604.42,
+  "salesDate": {
+    "$date": "2024-12-03T13:45:20.998Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 30,
+  "sales_id": "SAL_0229",
+  "customerID": "CUST014",
+  "items": [
+    {
+      "productID": "PROD034",
+      "quantity": 3,
+      "unitprice": 351.38,
+      "totalAmount": 1054.1399999999999
+    }
+  ],
+  "totalAmount": 1054.1399999999999,
+  "salesDate": {
+    "$date": "2024-02-15T13:45:20.999Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 31,
+  "sales_id": "SAL_0230",
+  "customerID": "CUST008",
+  "items": [
+    {
+      "productID": "PROD039",
+      "quantity": 1,
+      "unitprice": 1289.29,
+      "totalAmount": 1289.29
+    }
+  ],
+  "totalAmount": 1289.29,
+  "salesDate": {
+    "$date": "2023-10-02T13:45:21.001Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 32,
+  "sales_id": "SAL_0231",
+  "customerID": "CUST017",
+  "items": [
+    {
+      "productID": "PROD024",
+      "quantity": 1,
+      "unitprice": 1244.18,
+      "totalAmount": 1244.18
+    }
+  ],
+  "totalAmount": 1244.18,
+  "salesDate": {
+    "$date": "2025-05-26T13:45:21.002Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 33,
+  "sales_id": "SAL_0232",
+  "customerID": "CUST003",
+  "items": [
+    {
+      "productID": "PROD036",
+      "quantity": 4,
+      "unitprice": 1209.56,
+      "totalAmount": 4838.24
+    }
+  ],
+  "totalAmount": 4838.24,
+  "salesDate": {
+    "$date": "2024-07-11T13:45:21.004Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 34,
+  "sales_id": "SAL_0233",
+  "customerID": "CUST020",
+  "items": [
+    {
+      "productID": "PROD035",
+      "quantity": 4,
+      "unitprice": 802.21,
+      "totalAmount": 3208.84
+    }
+  ],
+  "totalAmount": 3208.84,
+  "salesDate": {
+    "$date": "2024-05-31T13:45:21.005Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 35,
+  "sales_id": "SAL_0234",
+  "customerID": "CUST010",
+  "items": [
+    {
+      "productID": "PROD013",
+      "quantity": 1,
+      "unitprice": 940.23,
+      "totalAmount": 940.23
+    }
+  ],
+  "totalAmount": 940.23,
+  "salesDate": {
+    "$date": "2025-04-09T13:45:21.006Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 36,
+  "sales_id": "SAL_0235",
+  "customerID": "CUST008",
+  "items": [
+    {
+      "productID": "PROD020",
+      "quantity": 3,
+      "unitprice": 1012.97,
+      "totalAmount": 3038.91
+    }
+  ],
+  "totalAmount": 3038.91,
+  "salesDate": {
+    "$date": "2025-04-28T13:45:21.007Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 37,
+  "sales_id": "SAL_0236",
+  "customerID": "CUST003",
+  "items": [
+    {
+      "productID": "PROD029",
+      "quantity": 4,
+      "unitprice": 1423.85,
+      "totalAmount": 5695.4
+    }
+  ],
+  "totalAmount": 5695.4,
+  "salesDate": {
+    "$date": "2023-11-02T13:45:21.008Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 38,
+  "sales_id": "SAL_0237",
+  "customerID": "CUST016",
+  "items": [
+    {
+      "productID": "PROD016",
+      "quantity": 2,
+      "unitprice": 601.41,
+      "totalAmount": 1202.82
+    }
+  ],
+  "totalAmount": 1202.82,
+  "salesDate": {
+    "$date": "2024-11-16T13:45:21.009Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 39,
+  "sales_id": "SAL_0238",
+  "customerID": "CUST008",
+  "items": [
+    {
+      "productID": "PROD019",
+      "quantity": 3,
+      "unitprice": 426.03,
+      "totalAmount": 1278.09
+    }
+  ],
+  "totalAmount": 1278.09,
+  "salesDate": {
+    "$date": "2024-11-21T13:45:21.010Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 40,
+  "sales_id": "SAL_0239",
+  "customerID": "CUST003",
+  "items": [
+    {
+      "productID": "PROD001",
+      "quantity": 4,
+      "unitprice": 100,
+      "totalAmount": 400
+    }
+  ],
+  "totalAmount": 400,
+  "salesDate": {
+    "$date": "2023-07-08T13:45:21.013Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 41,
+  "sales_id": "SAL_0240",
+  "customerID": "CUST007",
+  "items": [
+    {
+      "productID": "PROD039",
+      "quantity": 4,
+      "unitprice": 1289.29,
+      "totalAmount": 5157.16
+    }
+  ],
+  "totalAmount": 5157.16,
+  "salesDate": {
+    "$date": "2025-03-23T13:45:21.014Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 42,
+  "sales_id": "SAL_0241",
+  "customerID": "CUST012",
+  "items": [
+    {
+      "productID": "PROD040",
+      "quantity": 4,
+      "unitprice": 1032.48,
+      "totalAmount": 4129.92
+    }
+  ],
+  "totalAmount": 4129.92,
+  "salesDate": {
+    "$date": "2024-05-05T13:45:21.015Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 43,
+  "sales_id": "SAL_0242",
+  "customerID": "CUST009",
+  "items": [
+    {
+      "productID": "PROD018",
+      "quantity": 2,
+      "unitprice": 527.64,
+      "totalAmount": 1055.28
+    }
+  ],
+  "totalAmount": 1055.28,
+  "salesDate": {
+    "$date": "2024-07-23T13:45:21.016Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 44,
+  "sales_id": "SAL_0243",
+  "customerID": "CUST009",
+  "items": [
+    {
+      "productID": "PROD002",
+      "quantity": 3,
+      "unitprice": 313.64,
+      "totalAmount": 940.92
+    }
+  ],
+  "totalAmount": 940.92,
+  "salesDate": {
+    "$date": "2024-05-08T13:45:21.016Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 45,
+  "sales_id": "SAL_0244",
+  "customerID": "CUST005",
+  "items": [
+    {
+      "productID": "PROD041",
+      "quantity": 1,
+      "unitprice": 1373.37,
+      "totalAmount": 1373.37
+    }
+  ],
+  "totalAmount": 1373.37,
+  "salesDate": {
+    "$date": "2024-11-15T13:45:21.017Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 46,
+  "sales_id": "SAL_0245",
+  "customerID": "CUST001",
+  "items": [
+    {
+      "productID": "PROD021",
+      "quantity": 1,
+      "unitprice": 749.69,
+      "totalAmount": 749.69
+    }
+  ],
+  "totalAmount": 749.69,
+  "salesDate": {
+    "$date": "2025-02-05T13:45:21.019Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 47,
+  "sales_id": "SAL_0246",
+  "customerID": "CUST013",
+  "items": [
+    {
+      "productID": "PROD007",
+      "quantity": 4,
+      "unitprice": 505.9,
+      "totalAmount": 2023.6
+    }
+  ],
+  "totalAmount": 2023.6,
+  "salesDate": {
+    "$date": "2024-08-15T13:45:21.020Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 48,
+  "sales_id": "SAL_0247",
+  "customerID": "CUST017",
+  "items": [
+    {
+      "productID": "PROD031",
+      "quantity": 2,
+      "unitprice": 700.61,
+      "totalAmount": 1401.22
+    }
+  ],
+  "totalAmount": 1401.22,
+  "salesDate": {
+    "$date": "2023-08-01T13:45:21.022Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 49,
+  "sales_id": "SAL_0248",
+  "customerID": "CUST004",
+  "items": [
+    {
+      "productID": "PROD037",
+      "quantity": 4,
+      "unitprice": 924.87,
+      "totalAmount": 3699.48
+    }
+  ],
+  "totalAmount": 3699.48,
+  "salesDate": {
+    "$date": "2023-09-08T13:45:21.022Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 50,
+  "sales_id": "SAL_0249",
+  "customerID": "CUST016",
+  "items": [
+    {
+      "productID": "PROD032",
+      "quantity": 3,
+      "unitprice": 1028.7,
+      "totalAmount": 3086.1000000000004
+    }
+  ],
+  "totalAmount": 3086.1000000000004,
+  "salesDate": {
+    "$date": "2024-01-30T13:45:21.025Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 51,
+  "sales_id": "SAL_0250",
+  "customerID": "CUST005",
+  "items": [
+    {
+      "productID": "PROD017",
+      "quantity": 3,
+      "unitprice": 562.71,
+      "totalAmount": 1688.13
+    }
+  ],
+  "totalAmount": 1688.13,
+  "salesDate": {
+    "$date": "2023-09-30T13:45:21.026Z"
+  },
+  "paymentMethod": "transfer"
+},
+{
+  "_id": 52,
+  "saleID": "SAL52",
+  "customerID": "CUST016",
+  "items": [
+    {
+      "productID": "PROD012",
+      "quantity": 3,
+      "unitprice": 1018.08,
+      "totalAmount": 3054.24
+    }
+  ],
+  "totalAmount": 3054.24,
+  "saleDate": {
+    "$date": "2025-06-26T06:23:49.893Z"
+  },
+  "paymentMethod": "cash"
+},
+{
+  "_id": 53,
+  "saleID": "SAL53",
+  "customerID": "CUST014",
+  "items": [
+    {
+      "productID": "PROD012",
+      "quantity": 3,
+      "unitprice": 1018.08,
+      "totalAmount": 3054.24
+    }
+  ],
+  "totalAmount": 3054.24,
+  "saleDate": {
+    "$date": "2025-06-26T06:23:56.844Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 54,
+  "saleID": "SAL54",
+  "customerID": "CUST010",
+  "items": [
+    {
+      "productID": "PROD012",
+      "quantity": 3,
+      "unitprice": 1018.08,
+      "totalAmount": 3054.24
+    }
+  ],
+  "totalAmount": 3054.24,
+  "saleDate": {
+    "$date": "2025-06-26T06:27:15.541Z"
+  },
+  "paymentMethod": "card"
+},
+{
+  "_id": 55,
+  "saleID": "SAL55",
+  "customerID": "CUST005",
+  "items": [
+    {
+      "productID": "PROD015",
+      "quantity": 4,
+      "unitprice": 589.86,
+      "totalAmount": 2359.44
+    }
+  ],
+  "totalAmount": 2359.44,
+  "saleDate": {
+    "$date": "2025-06-26T06:27:15.545Z"
+  },
+  "paymentMethod": "card"
+}]

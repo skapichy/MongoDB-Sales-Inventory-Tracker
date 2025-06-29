@@ -1,0 +1,6228 @@
+[{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3c2"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2025-05-10T06:10:25.104Z"
+  },
+  "quantityAdded": 39,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kayla Miller"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3c3"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2024-11-28T06:10:25.116Z"
+  },
+  "quantityAdded": 34,
+  "supplier": "JamesVendor",
+  "restockedBy": "Scott Burns"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3c4"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2024-12-05T06:10:25.118Z"
+  },
+  "quantityAdded": 82,
+  "supplier": "JamesVendor",
+  "restockedBy": "Edgar Weiss"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3c5"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2024-09-18T06:10:25.119Z"
+  },
+  "quantityAdded": 30,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kevin Montgomery"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3c6"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2025-02-13T06:10:25.119Z"
+  },
+  "quantityAdded": 20,
+  "supplier": "JamesVendor",
+  "restockedBy": "Wendy Brown"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3c7"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2024-11-09T06:10:25.119Z"
+  },
+  "quantityAdded": 56,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kimberly Kirk"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3c8"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2024-12-09T06:10:25.120Z"
+  },
+  "quantityAdded": 56,
+  "supplier": "JamesVendor",
+  "restockedBy": "Destiny Rodriguez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3c9"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2025-01-27T06:10:25.120Z"
+  },
+  "quantityAdded": 62,
+  "supplier": "JamesVendor",
+  "restockedBy": "Vincent Morris"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3ca"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2025-01-04T06:10:25.120Z"
+  },
+  "quantityAdded": 41,
+  "supplier": "JamesVendor",
+  "restockedBy": "Rachel Jackson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3cb"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2024-12-07T06:10:25.120Z"
+  },
+  "quantityAdded": 60,
+  "supplier": "JamesVendor",
+  "restockedBy": "Richard Black"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3cc"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2025-01-06T06:10:25.120Z"
+  },
+  "quantityAdded": 87,
+  "supplier": "JamesVendor",
+  "restockedBy": "Adam Morris"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3cd"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2025-05-06T06:10:25.120Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "JamesVendor",
+  "restockedBy": "Chelsea Houston"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3ce"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2024-10-02T06:10:25.121Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "JamesVendor",
+  "restockedBy": "Alicia Williams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3cf"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2025-04-24T06:10:25.121Z"
+  },
+  "quantityAdded": 25,
+  "supplier": "JamesVendor",
+  "restockedBy": "Robin Zamora"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d0"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2024-12-24T06:10:25.121Z"
+  },
+  "quantityAdded": 25,
+  "supplier": "JamesVendor",
+  "restockedBy": "Greg Garcia"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d1"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2024-10-29T06:10:25.121Z"
+  },
+  "quantityAdded": 30,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Joseph Norton"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d2"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-01-08T06:10:25.121Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Tamara Morris"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d3"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-03-10T06:10:25.121Z"
+  },
+  "quantityAdded": 88,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Michael Lynn"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d4"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-03-06T06:10:25.122Z"
+  },
+  "quantityAdded": 71,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Michael Terrell"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d5"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-05-30T06:10:25.122Z"
+  },
+  "quantityAdded": 59,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Kathleen Larson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d6"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2024-12-16T06:10:25.122Z"
+  },
+  "quantityAdded": 57,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Norma Lewis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d7"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-02-24T06:10:25.122Z"
+  },
+  "quantityAdded": 59,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Mark Christensen"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d8"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-02-10T06:10:25.122Z"
+  },
+  "quantityAdded": 94,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Ashley Haynes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3d9"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-01-27T06:10:25.122Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Bryan Graves"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3da"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-04-30T06:10:25.123Z"
+  },
+  "quantityAdded": 52,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Anthony Zamora"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3db"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2024-11-12T06:10:25.124Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Leah White"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3dc"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-03-17T06:10:25.124Z"
+  },
+  "quantityAdded": 87,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Austin Brown"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3dd"
+  },
+  "productID": "PROD002",
+  "restockDate": {
+    "$date": "2025-05-09T06:10:25.124Z"
+  },
+  "quantityAdded": 96,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Tara Ward"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3de"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2025-04-22T06:10:25.124Z"
+  },
+  "quantityAdded": 64,
+  "supplier": "JamesVendor",
+  "restockedBy": "Amber Sanchez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3df"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2024-11-26T06:10:25.125Z"
+  },
+  "quantityAdded": 70,
+  "supplier": "JamesVendor",
+  "restockedBy": "Matthew Lee"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e0"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2024-12-25T06:10:25.125Z"
+  },
+  "quantityAdded": 72,
+  "supplier": "JamesVendor",
+  "restockedBy": "Spencer King"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e1"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2025-05-04T06:10:25.125Z"
+  },
+  "quantityAdded": 79,
+  "supplier": "JamesVendor",
+  "restockedBy": "Robin Turner"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e2"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2024-11-25T06:10:25.125Z"
+  },
+  "quantityAdded": 63,
+  "supplier": "JamesVendor",
+  "restockedBy": "Laurie Hernandez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e3"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2025-05-31T06:10:25.127Z"
+  },
+  "quantityAdded": 63,
+  "supplier": "JamesVendor",
+  "restockedBy": "Catherine Paul"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e4"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2025-02-11T06:10:25.127Z"
+  },
+  "quantityAdded": 42,
+  "supplier": "JamesVendor",
+  "restockedBy": "Cesar Lyons"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e5"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2025-04-27T06:10:25.127Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "JamesVendor",
+  "restockedBy": "Malik Duncan"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e6"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2025-03-18T06:10:25.127Z"
+  },
+  "quantityAdded": 36,
+  "supplier": "JamesVendor",
+  "restockedBy": "Charles Wilson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e7"
+  },
+  "productID": "PROD003",
+  "restockDate": {
+    "$date": "2024-11-13T06:10:25.127Z"
+  },
+  "quantityAdded": 82,
+  "supplier": "JamesVendor",
+  "restockedBy": "Nicholas Roberts"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e8"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2024-09-10T06:10:25.127Z"
+  },
+  "quantityAdded": 61,
+  "supplier": "JamesVendor",
+  "restockedBy": "Erik Davis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3e9"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2024-09-27T06:10:25.128Z"
+  },
+  "quantityAdded": 87,
+  "supplier": "JamesVendor",
+  "restockedBy": "Randy Thompson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3ea"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2024-09-11T06:10:25.128Z"
+  },
+  "quantityAdded": 51,
+  "supplier": "JamesVendor",
+  "restockedBy": "Eric Stewart"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3eb"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2025-03-01T06:10:25.128Z"
+  },
+  "quantityAdded": 26,
+  "supplier": "JamesVendor",
+  "restockedBy": "Stephen Mcdonald"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3ec"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2025-03-01T06:10:25.128Z"
+  },
+  "quantityAdded": 51,
+  "supplier": "JamesVendor",
+  "restockedBy": "Danielle Herrera"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3ed"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2025-06-09T06:10:25.128Z"
+  },
+  "quantityAdded": 29,
+  "supplier": "JamesVendor",
+  "restockedBy": "Marc Phillips"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3ee"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2024-09-09T06:10:25.129Z"
+  },
+  "quantityAdded": 85,
+  "supplier": "JamesVendor",
+  "restockedBy": "Victor Hughes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3ef"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2025-03-28T06:10:25.129Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "JamesVendor",
+  "restockedBy": "Deborah Haas"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f0"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2025-02-27T06:10:25.129Z"
+  },
+  "quantityAdded": 39,
+  "supplier": "JamesVendor",
+  "restockedBy": "Robin Castillo"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f1"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2025-04-27T06:10:25.130Z"
+  },
+  "quantityAdded": 35,
+  "supplier": "JamesVendor",
+  "restockedBy": "Debbie Johnston"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f2"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2025-02-17T06:10:25.131Z"
+  },
+  "quantityAdded": 90,
+  "supplier": "JamesVendor",
+  "restockedBy": "Stephanie Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f3"
+  },
+  "productID": "PROD004",
+  "restockDate": {
+    "$date": "2025-04-19T06:10:25.131Z"
+  },
+  "quantityAdded": 23,
+  "supplier": "JamesVendor",
+  "restockedBy": "Christina Garcia"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f4"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2025-01-12T06:10:25.131Z"
+  },
+  "quantityAdded": 82,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Michelle Ward"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f5"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2024-11-22T06:10:25.131Z"
+  },
+  "quantityAdded": 26,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Tamara Stewart"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f6"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2025-02-24T06:10:25.132Z"
+  },
+  "quantityAdded": 36,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Thomas Monroe"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f7"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2025-01-19T06:10:25.132Z"
+  },
+  "quantityAdded": 54,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Alexis Cook"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f8"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2024-11-25T06:10:25.133Z"
+  },
+  "quantityAdded": 94,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Tyler Kennedy"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3f9"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2025-01-11T06:10:25.133Z"
+  },
+  "quantityAdded": 99,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Zachary Bentley"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3fa"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2024-10-17T06:10:25.133Z"
+  },
+  "quantityAdded": 56,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Alexandria Lopez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3fb"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2025-04-09T06:10:25.133Z"
+  },
+  "quantityAdded": 89,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jo Lewis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3fc"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2025-03-14T06:10:25.133Z"
+  },
+  "quantityAdded": 46,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Crystal Sparks"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3fd"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2024-12-01T06:10:25.133Z"
+  },
+  "quantityAdded": 23,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Zachary Reynolds"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3fe"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2025-04-24T06:10:25.135Z"
+  },
+  "quantityAdded": 80,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Michael Ramos"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e3ff"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2025-03-21T06:10:25.135Z"
+  },
+  "quantityAdded": 30,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Victoria Matthews"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e400"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2024-12-03T06:10:25.135Z"
+  },
+  "quantityAdded": 71,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Cristina Kidd"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e401"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2025-06-07T06:10:25.135Z"
+  },
+  "quantityAdded": 48,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Alexis Bullock"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e402"
+  },
+  "productID": "PROD005",
+  "restockDate": {
+    "$date": "2024-11-08T06:10:25.135Z"
+  },
+  "quantityAdded": 49,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "John Williams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e403"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2024-12-11T06:10:25.135Z"
+  },
+  "quantityAdded": 33,
+  "supplier": "JamesVendor",
+  "restockedBy": "Daniel Martinez MD"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e404"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2025-02-22T06:10:25.136Z"
+  },
+  "quantityAdded": 24,
+  "supplier": "JamesVendor",
+  "restockedBy": "David Patterson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e405"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2024-12-21T06:10:25.136Z"
+  },
+  "quantityAdded": 48,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joseph Contreras"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e406"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2024-09-21T06:10:25.136Z"
+  },
+  "quantityAdded": 41,
+  "supplier": "JamesVendor",
+  "restockedBy": "Lisa Davidson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e407"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2025-05-30T06:10:25.136Z"
+  },
+  "quantityAdded": 90,
+  "supplier": "JamesVendor",
+  "restockedBy": "Madison Frye"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e408"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2024-11-20T06:10:25.136Z"
+  },
+  "quantityAdded": 22,
+  "supplier": "JamesVendor",
+  "restockedBy": "Courtney Harris"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e409"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2025-02-10T06:10:25.137Z"
+  },
+  "quantityAdded": 55,
+  "supplier": "JamesVendor",
+  "restockedBy": "David Day"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e40a"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2025-04-25T06:10:25.137Z"
+  },
+  "quantityAdded": 64,
+  "supplier": "JamesVendor",
+  "restockedBy": "Sandra Walker"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e40b"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2024-09-23T06:10:25.137Z"
+  },
+  "quantityAdded": 41,
+  "supplier": "JamesVendor",
+  "restockedBy": "Edward Turner"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e40c"
+  },
+  "productID": "PROD006",
+  "restockDate": {
+    "$date": "2025-05-16T06:10:25.138Z"
+  },
+  "quantityAdded": 51,
+  "supplier": "JamesVendor",
+  "restockedBy": "Donna Robinson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e40d"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2025-04-24T06:10:25.138Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Ruben Robinson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e40e"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2024-11-28T06:10:25.138Z"
+  },
+  "quantityAdded": 42,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Sharon Henry"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e40f"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2025-02-01T06:10:25.138Z"
+  },
+  "quantityAdded": 58,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Anthony Lambert"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e410"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2025-04-21T06:10:25.139Z"
+  },
+  "quantityAdded": 86,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Leah Bennett"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e411"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2024-09-06T06:10:25.139Z"
+  },
+  "quantityAdded": 53,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Seth Lynch"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e412"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2024-12-01T06:10:25.139Z"
+  },
+  "quantityAdded": 26,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Terrence Lutz"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e413"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2025-05-17T06:10:25.139Z"
+  },
+  "quantityAdded": 23,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Justin Gonzales"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e414"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2025-01-04T06:10:25.139Z"
+  },
+  "quantityAdded": 38,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Richard Mueller"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e415"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2025-04-16T06:10:25.139Z"
+  },
+  "quantityAdded": 35,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Lisa Schneider"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e416"
+  },
+  "productID": "PROD007",
+  "restockDate": {
+    "$date": "2025-04-21T06:10:25.140Z"
+  },
+  "quantityAdded": 75,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jasmine Moss"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e417"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2024-09-11T06:10:25.140Z"
+  },
+  "quantityAdded": 95,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "April Payne"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e418"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2024-10-17T06:10:25.140Z"
+  },
+  "quantityAdded": 72,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Steven Miller"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e419"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2024-12-29T06:10:25.140Z"
+  },
+  "quantityAdded": 74,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jacqueline Robinson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e41a"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2025-03-13T06:10:25.141Z"
+  },
+  "quantityAdded": 84,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Allison Andersen"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e41b"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2025-05-14T06:10:25.141Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Spencer Rice MD"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e41c"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2025-04-27T06:10:25.141Z"
+  },
+  "quantityAdded": 71,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Matthew Frazier"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e41d"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2025-05-21T06:10:25.141Z"
+  },
+  "quantityAdded": 80,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Andrew Tanner"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e41e"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2025-03-09T06:10:25.141Z"
+  },
+  "quantityAdded": 93,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Mrs. Kara White"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e41f"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2024-12-10T06:10:25.142Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Zachary Landry"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e420"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2025-02-13T06:10:25.142Z"
+  },
+  "quantityAdded": 54,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Kristen Sanchez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e421"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2024-10-30T06:10:25.143Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Destiny Baker"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e422"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2025-02-19T06:10:25.143Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Bailey Arnold"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e423"
+  },
+  "productID": "PROD008",
+  "restockDate": {
+    "$date": "2025-03-08T06:10:25.143Z"
+  },
+  "quantityAdded": 37,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Leslie Kelly DVM"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e424"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2025-04-05T06:10:25.143Z"
+  },
+  "quantityAdded": 62,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Denise Mann"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e425"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2025-04-30T06:10:25.143Z"
+  },
+  "quantityAdded": 64,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Miguel Preston"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e426"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2025-05-08T06:10:25.143Z"
+  },
+  "quantityAdded": 92,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Alice Weaver"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e427"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2024-11-22T06:10:25.143Z"
+  },
+  "quantityAdded": 51,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Stephen Herrera"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e428"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2025-03-21T06:10:25.144Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Emily Wallace"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e429"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2024-09-17T06:10:25.144Z"
+  },
+  "quantityAdded": 22,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Nancy Howard"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e42a"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2025-05-11T06:10:25.144Z"
+  },
+  "quantityAdded": 57,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Angela Miller"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e42b"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2024-09-13T06:10:25.144Z"
+  },
+  "quantityAdded": 36,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Alison Barnett"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e42c"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2025-02-24T06:10:25.145Z"
+  },
+  "quantityAdded": 43,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Colleen Harris"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e42d"
+  },
+  "productID": "PROD009",
+  "restockDate": {
+    "$date": "2025-03-27T06:10:25.145Z"
+  },
+  "quantityAdded": 90,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Rebecca Morris"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e42e"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2024-11-06T06:10:25.145Z"
+  },
+  "quantityAdded": 26,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kristen Barber"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e42f"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2024-10-05T06:10:25.145Z"
+  },
+  "quantityAdded": 93,
+  "supplier": "JamesVendor",
+  "restockedBy": "Randy Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e430"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2025-05-05T06:10:25.146Z"
+  },
+  "quantityAdded": 23,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joshua Davis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e431"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2024-09-21T06:10:25.146Z"
+  },
+  "quantityAdded": 25,
+  "supplier": "JamesVendor",
+  "restockedBy": "April Rush"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e432"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2025-03-12T06:10:25.146Z"
+  },
+  "quantityAdded": 88,
+  "supplier": "JamesVendor",
+  "restockedBy": "Heidi Baker"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e433"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2024-08-30T06:10:25.146Z"
+  },
+  "quantityAdded": 92,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jason Lawson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e434"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2025-03-13T06:10:25.146Z"
+  },
+  "quantityAdded": 52,
+  "supplier": "JamesVendor",
+  "restockedBy": "Brenda Stevenson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e435"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2025-05-03T06:10:25.146Z"
+  },
+  "quantityAdded": 29,
+  "supplier": "JamesVendor",
+  "restockedBy": "Mrs. Michelle Peterson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e436"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2025-03-22T06:10:25.147Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "JamesVendor",
+  "restockedBy": "Larry Avery"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e437"
+  },
+  "productID": "PROD010",
+  "restockDate": {
+    "$date": "2024-12-17T06:10:25.147Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joshua Berger"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e438"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-03-02T06:10:25.147Z"
+  },
+  "quantityAdded": 87,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jennifer Lopez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e439"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-04-23T06:10:25.147Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "JamesVendor",
+  "restockedBy": "Alexander Martinez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e43a"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-06-02T06:10:25.147Z"
+  },
+  "quantityAdded": 42,
+  "supplier": "JamesVendor",
+  "restockedBy": "Renee Stanton"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e43b"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-02-21T06:10:25.147Z"
+  },
+  "quantityAdded": 40,
+  "supplier": "JamesVendor",
+  "restockedBy": "Madison Wilcox"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e43c"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2024-09-14T06:10:25.147Z"
+  },
+  "quantityAdded": 76,
+  "supplier": "JamesVendor",
+  "restockedBy": "Laura Torres"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e43d"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-03-27T06:10:25.147Z"
+  },
+  "quantityAdded": 65,
+  "supplier": "JamesVendor",
+  "restockedBy": "Alexis Becker"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e43e"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2024-12-01T06:10:25.147Z"
+  },
+  "quantityAdded": 85,
+  "supplier": "JamesVendor",
+  "restockedBy": "David Barber"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e43f"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-02-04T06:10:25.147Z"
+  },
+  "quantityAdded": 45,
+  "supplier": "JamesVendor",
+  "restockedBy": "Nancy Graham"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e440"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-02-05T06:10:25.148Z"
+  },
+  "quantityAdded": 43,
+  "supplier": "JamesVendor",
+  "restockedBy": "Brian Stevens"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e441"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-03-27T06:10:25.148Z"
+  },
+  "quantityAdded": 94,
+  "supplier": "JamesVendor",
+  "restockedBy": "Michele Martinez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e442"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-05-21T06:10:25.148Z"
+  },
+  "quantityAdded": 74,
+  "supplier": "JamesVendor",
+  "restockedBy": "Manuel Stevens"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e443"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2024-11-18T06:10:25.148Z"
+  },
+  "quantityAdded": 59,
+  "supplier": "JamesVendor",
+  "restockedBy": "Angela Hines"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e444"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2025-04-27T06:10:25.148Z"
+  },
+  "quantityAdded": 57,
+  "supplier": "JamesVendor",
+  "restockedBy": "Steven Nelson MD"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e445"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2024-12-23T06:10:25.148Z"
+  },
+  "quantityAdded": 80,
+  "supplier": "JamesVendor",
+  "restockedBy": "Lance Gilmore MD"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e446"
+  },
+  "productID": "PROD011",
+  "restockDate": {
+    "$date": "2024-11-13T06:10:25.148Z"
+  },
+  "quantityAdded": 72,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jeanne Noble"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e447"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2025-03-31T06:10:25.148Z"
+  },
+  "quantityAdded": 40,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Elizabeth Jackson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e448"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2025-05-21T06:10:25.149Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Cody Howard"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e449"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2025-06-01T06:10:25.149Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Ronnie Moreno"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e44a"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2024-08-30T06:10:25.149Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Yesenia Haynes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e44b"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2024-12-01T06:10:25.150Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Nancy Brown"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e44c"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2025-03-12T06:10:25.150Z"
+  },
+  "quantityAdded": 50,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Courtney Charles"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e44d"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2024-10-06T06:10:25.151Z"
+  },
+  "quantityAdded": 43,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Sonya Crosby MD"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e44e"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2024-12-30T06:10:25.151Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Blake Owens"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e44f"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2024-10-21T06:10:25.151Z"
+  },
+  "quantityAdded": 49,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Valerie Lewis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e450"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2025-01-15T06:10:25.152Z"
+  },
+  "quantityAdded": 50,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Kristin Dawson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e451"
+  },
+  "productID": "PROD012",
+  "restockDate": {
+    "$date": "2025-05-22T06:10:25.152Z"
+  },
+  "quantityAdded": 61,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Sandra Berg"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e452"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2025-04-13T06:10:25.154Z"
+  },
+  "quantityAdded": 46,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kristin Harris"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e453"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2024-12-22T06:10:25.154Z"
+  },
+  "quantityAdded": 53,
+  "supplier": "JamesVendor",
+  "restockedBy": "Cheryl Lewis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e454"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2025-01-17T06:10:25.154Z"
+  },
+  "quantityAdded": 27,
+  "supplier": "JamesVendor",
+  "restockedBy": "Daniel Hahn"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e455"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2024-09-15T06:10:25.154Z"
+  },
+  "quantityAdded": 95,
+  "supplier": "JamesVendor",
+  "restockedBy": "Matthew Hawkins"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e456"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2025-01-29T06:10:25.155Z"
+  },
+  "quantityAdded": 53,
+  "supplier": "JamesVendor",
+  "restockedBy": "Caitlin Wagner"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e457"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2024-10-29T06:10:25.155Z"
+  },
+  "quantityAdded": 91,
+  "supplier": "JamesVendor",
+  "restockedBy": "Denise Cunningham"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e458"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2025-01-23T06:10:25.156Z"
+  },
+  "quantityAdded": 71,
+  "supplier": "JamesVendor",
+  "restockedBy": "Zachary Snyder"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e459"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2025-05-04T06:10:25.156Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "JamesVendor",
+  "restockedBy": "Mary Brown"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e45a"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2025-03-16T06:10:25.157Z"
+  },
+  "quantityAdded": 22,
+  "supplier": "JamesVendor",
+  "restockedBy": "Eric Hubbard"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e45b"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2024-11-15T06:10:25.157Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joshua Cunningham"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e45c"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2024-12-20T06:10:25.157Z"
+  },
+  "quantityAdded": 33,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joshua Casey"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e45d"
+  },
+  "productID": "PROD013",
+  "restockDate": {
+    "$date": "2024-09-23T06:10:25.157Z"
+  },
+  "quantityAdded": 20,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joyce Rodriguez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e45e"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-02-04T06:10:25.157Z"
+  },
+  "quantityAdded": 56,
+  "supplier": "JamesVendor",
+  "restockedBy": "Shannon Lewis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e45f"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-03-13T06:10:25.157Z"
+  },
+  "quantityAdded": 29,
+  "supplier": "JamesVendor",
+  "restockedBy": "Sean King"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e460"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-02-13T06:10:25.157Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tracy Wells"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e461"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-06-07T06:10:25.158Z"
+  },
+  "quantityAdded": 82,
+  "supplier": "JamesVendor",
+  "restockedBy": "Glenn Wilson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e462"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-05-17T06:10:25.158Z"
+  },
+  "quantityAdded": 30,
+  "supplier": "JamesVendor",
+  "restockedBy": "Steven Hughes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e463"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-02-06T06:10:25.158Z"
+  },
+  "quantityAdded": 41,
+  "supplier": "JamesVendor",
+  "restockedBy": "Monica Carrillo"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e464"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-01-18T06:10:25.158Z"
+  },
+  "quantityAdded": 31,
+  "supplier": "JamesVendor",
+  "restockedBy": "Nicholas Soto"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e465"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-02-28T06:10:25.158Z"
+  },
+  "quantityAdded": 48,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jonathan Lopez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e466"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-05-04T06:10:25.158Z"
+  },
+  "quantityAdded": 62,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kevin Powell"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e467"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-04-01T06:10:25.158Z"
+  },
+  "quantityAdded": 32,
+  "supplier": "JamesVendor",
+  "restockedBy": "Justin Carr"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e468"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2025-02-15T06:10:25.158Z"
+  },
+  "quantityAdded": 82,
+  "supplier": "JamesVendor",
+  "restockedBy": "Miranda Spears"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e469"
+  },
+  "productID": "PROD014",
+  "restockDate": {
+    "$date": "2024-10-21T06:10:25.159Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "JamesVendor",
+  "restockedBy": "Angela Hunter"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e46a"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2025-01-12T06:10:25.159Z"
+  },
+  "quantityAdded": 70,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Pamela Bennett"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e46b"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2025-04-15T06:10:25.159Z"
+  },
+  "quantityAdded": 57,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Michael Morris"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e46c"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2024-11-23T06:10:25.159Z"
+  },
+  "quantityAdded": 76,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Amanda Torres"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e46d"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2025-04-02T06:10:25.159Z"
+  },
+  "quantityAdded": 43,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Joseph Thomas"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e46e"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2025-03-27T06:10:25.159Z"
+  },
+  "quantityAdded": 28,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Jocelyn Garcia"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e46f"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2024-10-01T06:10:25.159Z"
+  },
+  "quantityAdded": 71,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Sarah Wiley"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e470"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2024-09-27T06:10:25.159Z"
+  },
+  "quantityAdded": 59,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Lisa Williams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e471"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2025-05-15T06:10:25.159Z"
+  },
+  "quantityAdded": 91,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Scott Reilly"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e472"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2025-02-24T06:10:25.161Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Brian Mccormick"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e473"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2024-10-18T06:10:25.161Z"
+  },
+  "quantityAdded": 41,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Mia Foley"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e474"
+  },
+  "productID": "PROD015",
+  "restockDate": {
+    "$date": "2025-04-24T06:10:25.163Z"
+  },
+  "quantityAdded": 97,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Erika Brown"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e475"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2025-02-16T06:10:25.163Z"
+  },
+  "quantityAdded": 74,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Tyler Drake"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e476"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2024-11-28T06:10:25.163Z"
+  },
+  "quantityAdded": 90,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "John Greer"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e477"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2024-12-13T06:10:25.164Z"
+  },
+  "quantityAdded": 92,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Joseph Miranda"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e478"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2024-09-03T06:10:25.164Z"
+  },
+  "quantityAdded": 76,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Hannah Cooper"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e479"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2024-10-02T06:10:25.164Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Marcus Brooks"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e47a"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2024-08-29T06:10:25.164Z"
+  },
+  "quantityAdded": 62,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Nicolas Kelly"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e47b"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2025-02-03T06:10:25.164Z"
+  },
+  "quantityAdded": 57,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Ryan Medina"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e47c"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2025-05-12T06:10:25.164Z"
+  },
+  "quantityAdded": 46,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Theresa Gonzalez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e47d"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2025-02-15T06:10:25.164Z"
+  },
+  "quantityAdded": 97,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Regina Spencer"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e47e"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2024-12-28T06:10:25.164Z"
+  },
+  "quantityAdded": 28,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Molly Cowan"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e47f"
+  },
+  "productID": "PROD016",
+  "restockDate": {
+    "$date": "2024-11-06T06:10:25.164Z"
+  },
+  "quantityAdded": 87,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Latoya Morrow"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e480"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2025-06-13T06:10:25.165Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tina Jones"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e481"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2024-12-02T06:10:25.165Z"
+  },
+  "quantityAdded": 51,
+  "supplier": "JamesVendor",
+  "restockedBy": "James Mckay"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e482"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2025-01-11T06:10:25.165Z"
+  },
+  "quantityAdded": 20,
+  "supplier": "JamesVendor",
+  "restockedBy": "Ryan Hoover"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e483"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2025-03-06T06:10:25.165Z"
+  },
+  "quantityAdded": 55,
+  "supplier": "JamesVendor",
+  "restockedBy": "Manuel Velez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e484"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2024-12-23T06:10:25.165Z"
+  },
+  "quantityAdded": 78,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jenny Phillips"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e485"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2025-04-17T06:10:25.165Z"
+  },
+  "quantityAdded": 94,
+  "supplier": "JamesVendor",
+  "restockedBy": "Peter Castro"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e486"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2025-05-16T06:10:25.165Z"
+  },
+  "quantityAdded": 75,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kim Lee"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e487"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2024-09-25T06:10:25.165Z"
+  },
+  "quantityAdded": 85,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joshua Rich"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e488"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2025-05-13T06:10:25.165Z"
+  },
+  "quantityAdded": 58,
+  "supplier": "JamesVendor",
+  "restockedBy": "Dana Cline"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e489"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2024-11-03T06:10:25.166Z"
+  },
+  "quantityAdded": 33,
+  "supplier": "JamesVendor",
+  "restockedBy": "John Mccormick"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e48a"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2025-05-06T06:10:25.166Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "JamesVendor",
+  "restockedBy": "David Peters"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e48b"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2025-03-05T06:10:25.166Z"
+  },
+  "quantityAdded": 28,
+  "supplier": "JamesVendor",
+  "restockedBy": "Denise Gregory"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e48c"
+  },
+  "productID": "PROD017",
+  "restockDate": {
+    "$date": "2025-03-20T06:10:25.166Z"
+  },
+  "quantityAdded": 21,
+  "supplier": "JamesVendor",
+  "restockedBy": "Arthur Crawford"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e48d"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2024-11-01T06:10:25.166Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Lisa Hart"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e48e"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2025-01-18T06:10:25.166Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Betty Garcia"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e48f"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2025-04-19T06:10:25.166Z"
+  },
+  "quantityAdded": 39,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Julie Diaz"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e490"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2024-12-30T06:10:25.167Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Brianna Douglas"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e491"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2025-05-04T06:10:25.167Z"
+  },
+  "quantityAdded": 24,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "David Fletcher"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e492"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2024-09-25T06:10:25.167Z"
+  },
+  "quantityAdded": 30,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Timothy Cabrera"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e493"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2025-04-13T06:10:25.167Z"
+  },
+  "quantityAdded": 75,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Paul Wagner"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e494"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2025-06-09T06:10:25.167Z"
+  },
+  "quantityAdded": 60,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Joshua Ferguson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e495"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2025-02-25T06:10:25.167Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Mr. Charles Hernandez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e496"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2024-12-31T06:10:25.168Z"
+  },
+  "quantityAdded": 84,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Stacy Coffey"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e497"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2025-02-02T06:10:25.168Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Julia Wilson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e498"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2025-05-20T06:10:25.168Z"
+  },
+  "quantityAdded": 76,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Teresa Reynolds"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e499"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2024-10-26T06:10:25.168Z"
+  },
+  "quantityAdded": 39,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Johnny Rollins"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e49a"
+  },
+  "productID": "PROD018",
+  "restockDate": {
+    "$date": "2024-11-24T06:10:25.169Z"
+  },
+  "quantityAdded": 43,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Lauren Diaz"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e49b"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2025-04-28T06:10:25.169Z"
+  },
+  "quantityAdded": 85,
+  "supplier": "JamesVendor",
+  "restockedBy": "John Fischer"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e49c"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2024-10-13T06:10:25.169Z"
+  },
+  "quantityAdded": 85,
+  "supplier": "JamesVendor",
+  "restockedBy": "Christopher Hawkins"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e49d"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2024-11-24T06:10:25.169Z"
+  },
+  "quantityAdded": 20,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tina Williams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e49e"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2025-01-05T06:10:25.169Z"
+  },
+  "quantityAdded": 86,
+  "supplier": "JamesVendor",
+  "restockedBy": "Sean Flores"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e49f"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2025-01-04T06:10:25.169Z"
+  },
+  "quantityAdded": 62,
+  "supplier": "JamesVendor",
+  "restockedBy": "Catherine Martinez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a0"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2025-02-14T06:10:25.169Z"
+  },
+  "quantityAdded": 92,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kimberly Simpson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a1"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2025-03-05T06:10:25.170Z"
+  },
+  "quantityAdded": 31,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joshua Robinson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a2"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2024-12-02T06:10:25.170Z"
+  },
+  "quantityAdded": 70,
+  "supplier": "JamesVendor",
+  "restockedBy": "Emily Munoz"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a3"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2024-10-01T06:10:25.170Z"
+  },
+  "quantityAdded": 84,
+  "supplier": "JamesVendor",
+  "restockedBy": "James Taylor"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a4"
+  },
+  "productID": "PROD019",
+  "restockDate": {
+    "$date": "2024-10-02T06:10:25.170Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "JamesVendor",
+  "restockedBy": "Gabrielle Haynes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a5"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2025-05-10T06:10:25.170Z"
+  },
+  "quantityAdded": 98,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Jessica Nelson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a6"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2025-01-27T06:10:25.170Z"
+  },
+  "quantityAdded": 37,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Jessica Bennett"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a7"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2025-06-11T06:10:25.170Z"
+  },
+  "quantityAdded": 52,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kelly Washington"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a8"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2024-10-19T06:10:25.170Z"
+  },
+  "quantityAdded": 71,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kara Snyder"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4a9"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2025-03-10T06:10:25.170Z"
+  },
+  "quantityAdded": 70,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Joanna Long"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4aa"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2024-09-22T06:10:25.171Z"
+  },
+  "quantityAdded": 33,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Joseph Singleton"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ab"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2025-01-26T06:10:25.171Z"
+  },
+  "quantityAdded": 65,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Danielle Lopez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ac"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2025-01-16T06:10:25.171Z"
+  },
+  "quantityAdded": 91,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kristen Roberts"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ad"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2025-02-23T06:10:25.171Z"
+  },
+  "quantityAdded": 74,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Diane Wilkinson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ae"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2024-10-15T06:10:25.171Z"
+  },
+  "quantityAdded": 98,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "James Sanders"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4af"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2024-09-19T06:10:25.171Z"
+  },
+  "quantityAdded": 60,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Tonya Griffith"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b0"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2024-12-16T06:10:25.172Z"
+  },
+  "quantityAdded": 91,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Jessica Baldwin"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b1"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2025-03-11T06:10:25.172Z"
+  },
+  "quantityAdded": 20,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Carmen Luna"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b2"
+  },
+  "productID": "PROD020",
+  "restockDate": {
+    "$date": "2025-04-20T06:10:25.172Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Amanda Alexander"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b3"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2025-04-10T06:10:25.172Z"
+  },
+  "quantityAdded": 21,
+  "supplier": "JamesVendor",
+  "restockedBy": "Matthew Wilson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b4"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2025-01-19T06:10:25.173Z"
+  },
+  "quantityAdded": 35,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jose Castaneda"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b5"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2024-12-23T06:10:25.173Z"
+  },
+  "quantityAdded": 82,
+  "supplier": "JamesVendor",
+  "restockedBy": "Linda Hoffman"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b6"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2025-04-26T06:10:25.173Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jane Stanley"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b7"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2024-12-03T06:10:25.173Z"
+  },
+  "quantityAdded": 21,
+  "supplier": "JamesVendor",
+  "restockedBy": "Gregory Hernandez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b8"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2025-05-03T06:10:25.173Z"
+  },
+  "quantityAdded": 33,
+  "supplier": "JamesVendor",
+  "restockedBy": "Nicole Dominguez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4b9"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2025-04-25T06:10:25.173Z"
+  },
+  "quantityAdded": 34,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jordan Pittman"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ba"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2025-05-25T06:10:25.174Z"
+  },
+  "quantityAdded": 58,
+  "supplier": "JamesVendor",
+  "restockedBy": "Ashley Ross"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4bb"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2024-12-11T06:10:25.174Z"
+  },
+  "quantityAdded": 87,
+  "supplier": "JamesVendor",
+  "restockedBy": "Donald Gutierrez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4bc"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2025-03-27T06:10:25.174Z"
+  },
+  "quantityAdded": 35,
+  "supplier": "JamesVendor",
+  "restockedBy": "Matthew Anderson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4bd"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2025-03-31T06:10:25.174Z"
+  },
+  "quantityAdded": 78,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tony Duncan"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4be"
+  },
+  "productID": "PROD021",
+  "restockDate": {
+    "$date": "2025-01-28T06:10:25.174Z"
+  },
+  "quantityAdded": 100,
+  "supplier": "JamesVendor",
+  "restockedBy": "Sheila Gonzalez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4bf"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-03-05T06:10:25.174Z"
+  },
+  "quantityAdded": 76,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kristen Michael"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c0"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2024-12-09T06:10:25.174Z"
+  },
+  "quantityAdded": 79,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Cynthia Stewart"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c1"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2024-09-23T06:10:25.176Z"
+  },
+  "quantityAdded": 55,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Theodore Taylor"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c2"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2024-11-30T06:10:25.176Z"
+  },
+  "quantityAdded": 27,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Todd Townsend"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c3"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-06-01T06:10:25.176Z"
+  },
+  "quantityAdded": 78,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Reginald Holmes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c4"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-02-02T06:10:25.176Z"
+  },
+  "quantityAdded": 27,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Rebecca Young"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c5"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-02-16T06:10:25.177Z"
+  },
+  "quantityAdded": 98,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Charles Davis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c6"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-02-10T06:10:25.177Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Jaime Lee"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c7"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-04-30T06:10:25.177Z"
+  },
+  "quantityAdded": 42,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Lisa Mays"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c8"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-05-14T06:10:25.178Z"
+  },
+  "quantityAdded": 28,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Timothy Mcgee"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4c9"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-04-08T06:10:25.178Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kayla Garrison"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ca"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-04-10T06:10:25.178Z"
+  },
+  "quantityAdded": 89,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Dustin Hayes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4cb"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2024-09-29T06:10:25.178Z"
+  },
+  "quantityAdded": 60,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Darius Mack"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4cc"
+  },
+  "productID": "PROD022",
+  "restockDate": {
+    "$date": "2025-05-16T06:10:25.178Z"
+  },
+  "quantityAdded": 68,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Austin Norris"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4cd"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2025-02-26T06:10:25.178Z"
+  },
+  "quantityAdded": 54,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Joseph Mclean"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ce"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2025-03-31T06:10:25.179Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Daniel Baker"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4cf"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2025-06-07T06:10:25.179Z"
+  },
+  "quantityAdded": 53,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Angela Santos"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d0"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2025-02-13T06:10:25.179Z"
+  },
+  "quantityAdded": 59,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kristin Cortez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d1"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2025-05-11T06:10:25.179Z"
+  },
+  "quantityAdded": 23,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Christina Taylor"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d2"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2025-04-05T06:10:25.179Z"
+  },
+  "quantityAdded": 38,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Tracey Castillo"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d3"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2025-03-30T06:10:25.179Z"
+  },
+  "quantityAdded": 63,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Megan Martinez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d4"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2025-03-01T06:10:25.179Z"
+  },
+  "quantityAdded": 53,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Anthony Oliver"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d5"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2024-12-17T06:10:25.180Z"
+  },
+  "quantityAdded": 54,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Michael Higgins"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d6"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2024-09-07T06:10:25.180Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Gary Barrera"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d7"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2024-10-27T06:10:25.180Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Troy Anderson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d8"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2024-10-02T06:10:25.180Z"
+  },
+  "quantityAdded": 48,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Richard Wilson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4d9"
+  },
+  "productID": "PROD023",
+  "restockDate": {
+    "$date": "2025-06-06T06:10:25.180Z"
+  },
+  "quantityAdded": 40,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Janice Knight"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4da"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-04-02T06:10:25.180Z"
+  },
+  "quantityAdded": 95,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Ellen Martinez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4db"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-03-12T06:10:25.180Z"
+  },
+  "quantityAdded": 34,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Lori Miller"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4dc"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-02-28T06:10:25.181Z"
+  },
+  "quantityAdded": 44,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Vincent Gutierrez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4dd"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-06-11T06:10:25.181Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "James Kim"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4de"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-05-11T06:10:25.181Z"
+  },
+  "quantityAdded": 88,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Shannon Wagner"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4df"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-03-19T06:10:25.181Z"
+  },
+  "quantityAdded": 95,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "David Bowers"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e0"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-04-13T06:10:25.181Z"
+  },
+  "quantityAdded": 90,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Amy Myers"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e1"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-06-03T06:10:25.181Z"
+  },
+  "quantityAdded": 94,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Karla Nguyen"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e2"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-06-07T06:10:25.183Z"
+  },
+  "quantityAdded": 54,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Peter Rogers"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e3"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2024-12-20T06:10:25.183Z"
+  },
+  "quantityAdded": 61,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Amber Grimes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e4"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-01-10T06:10:25.183Z"
+  },
+  "quantityAdded": 88,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Debra Stewart"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e5"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-02-22T06:10:25.183Z"
+  },
+  "quantityAdded": 45,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Christy Anderson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e6"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-06-05T06:10:25.183Z"
+  },
+  "quantityAdded": 52,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jennifer Wagner"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e7"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2025-06-04T06:10:25.183Z"
+  },
+  "quantityAdded": 28,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Michael Lindsey"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e8"
+  },
+  "productID": "PROD024",
+  "restockDate": {
+    "$date": "2024-10-15T06:10:25.183Z"
+  },
+  "quantityAdded": 39,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Margaret Burns"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4e9"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-06-01T06:10:25.183Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Mary Sanders"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ea"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-02-05T06:10:25.183Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Julie Fernandez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4eb"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2024-12-31T06:10:25.183Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kimberly Young"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ec"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-04-25T06:10:25.184Z"
+  },
+  "quantityAdded": 37,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Alexandria Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ed"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-06-07T06:10:25.184Z"
+  },
+  "quantityAdded": 90,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Sherry Silva"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ee"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-03-23T06:10:25.184Z"
+  },
+  "quantityAdded": 29,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Linda Thomas"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ef"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2024-08-28T06:10:25.184Z"
+  },
+  "quantityAdded": 58,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Cassidy Martinez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f0"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-02-17T06:10:25.184Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "William Orozco"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f1"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-04-19T06:10:25.184Z"
+  },
+  "quantityAdded": 80,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Loretta Dixon"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f2"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-05-23T06:10:25.186Z"
+  },
+  "quantityAdded": 95,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Alexandra Robles"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f3"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-04-28T06:10:25.186Z"
+  },
+  "quantityAdded": 33,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kimberly Marquez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f4"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-03-10T06:10:25.186Z"
+  },
+  "quantityAdded": 24,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Darren Graham"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f5"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-06-14T06:10:25.187Z"
+  },
+  "quantityAdded": 38,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Joseph Gardner"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f6"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2025-04-12T06:10:25.187Z"
+  },
+  "quantityAdded": 44,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "David Davis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f7"
+  },
+  "productID": "PROD025",
+  "restockDate": {
+    "$date": "2024-10-28T06:10:25.187Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Patrick Williams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f8"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2025-01-21T06:10:25.187Z"
+  },
+  "quantityAdded": 24,
+  "supplier": "JamesVendor",
+  "restockedBy": "David Davis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4f9"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2024-12-03T06:10:25.188Z"
+  },
+  "quantityAdded": 87,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tammy Ramirez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4fa"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2025-02-11T06:10:25.188Z"
+  },
+  "quantityAdded": 99,
+  "supplier": "JamesVendor",
+  "restockedBy": "Alexandra Jones"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4fb"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2025-03-07T06:10:25.188Z"
+  },
+  "quantityAdded": 66,
+  "supplier": "JamesVendor",
+  "restockedBy": "Andrew Wilson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4fc"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2025-04-07T06:10:25.188Z"
+  },
+  "quantityAdded": 44,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tyrone Anderson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4fd"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2024-10-15T06:10:25.188Z"
+  },
+  "quantityAdded": 71,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jessica Underwood"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4fe"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2024-10-27T06:10:25.188Z"
+  },
+  "quantityAdded": 95,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jeffery Miller"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e4ff"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2025-05-27T06:10:25.188Z"
+  },
+  "quantityAdded": 60,
+  "supplier": "JamesVendor",
+  "restockedBy": "Andrew Contreras"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e500"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2025-03-03T06:10:25.189Z"
+  },
+  "quantityAdded": 24,
+  "supplier": "JamesVendor",
+  "restockedBy": "Michael Solis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e501"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2025-02-17T06:10:25.189Z"
+  },
+  "quantityAdded": 32,
+  "supplier": "JamesVendor",
+  "restockedBy": "Scott Wheeler"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e502"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2024-09-26T06:10:25.189Z"
+  },
+  "quantityAdded": 22,
+  "supplier": "JamesVendor",
+  "restockedBy": "Patricia Reed"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e503"
+  },
+  "productID": "PROD026",
+  "restockDate": {
+    "$date": "2025-01-11T06:10:25.189Z"
+  },
+  "quantityAdded": 87,
+  "supplier": "JamesVendor",
+  "restockedBy": "Lisa Fuller"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e504"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2024-11-21T06:10:25.189Z"
+  },
+  "quantityAdded": 90,
+  "supplier": "JamesVendor",
+  "restockedBy": "Douglas Carpenter"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e505"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2024-10-16T06:10:25.189Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "JamesVendor",
+  "restockedBy": "Derek Welch"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e506"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2024-10-24T06:10:25.189Z"
+  },
+  "quantityAdded": 32,
+  "supplier": "JamesVendor",
+  "restockedBy": "Mr. Matthew Keith"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e507"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2025-02-26T06:10:25.190Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jessica Elliott"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e508"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2025-01-01T06:10:25.190Z"
+  },
+  "quantityAdded": 25,
+  "supplier": "JamesVendor",
+  "restockedBy": "Janet Hayes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e509"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2025-06-14T06:10:25.190Z"
+  },
+  "quantityAdded": 43,
+  "supplier": "JamesVendor",
+  "restockedBy": "Raymond Williams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e50a"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2025-03-10T06:10:25.190Z"
+  },
+  "quantityAdded": 84,
+  "supplier": "JamesVendor",
+  "restockedBy": "Robert Carlson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e50b"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2024-08-28T06:10:25.190Z"
+  },
+  "quantityAdded": 95,
+  "supplier": "JamesVendor",
+  "restockedBy": "Linda Williams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e50c"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2024-12-29T06:10:25.190Z"
+  },
+  "quantityAdded": 89,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kimberly Wilson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e50d"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2025-02-09T06:10:25.190Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "JamesVendor",
+  "restockedBy": "Anna Townsend"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e50e"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2025-01-16T06:10:25.191Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "JamesVendor",
+  "restockedBy": "Megan Griffin"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e50f"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2025-01-27T06:10:25.191Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "JamesVendor",
+  "restockedBy": "Terry Thomas"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e510"
+  },
+  "productID": "PROD027",
+  "restockDate": {
+    "$date": "2024-12-19T06:10:25.191Z"
+  },
+  "quantityAdded": 41,
+  "supplier": "JamesVendor",
+  "restockedBy": "Stephanie Harper"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e511"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2024-10-28T06:10:25.191Z"
+  },
+  "quantityAdded": 92,
+  "supplier": "JamesVendor",
+  "restockedBy": "Brianna Anderson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e512"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2024-10-09T06:10:25.191Z"
+  },
+  "quantityAdded": 50,
+  "supplier": "JamesVendor",
+  "restockedBy": "Erica Lee"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e513"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2025-03-10T06:10:25.191Z"
+  },
+  "quantityAdded": 88,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tammy Jones"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e514"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2025-03-31T06:10:25.192Z"
+  },
+  "quantityAdded": 98,
+  "supplier": "JamesVendor",
+  "restockedBy": "Sheryl Sanchez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e515"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2024-10-11T06:10:25.192Z"
+  },
+  "quantityAdded": 75,
+  "supplier": "JamesVendor",
+  "restockedBy": "Christopher Galloway"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e516"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2025-04-19T06:10:25.192Z"
+  },
+  "quantityAdded": 78,
+  "supplier": "JamesVendor",
+  "restockedBy": "Teresa Marquez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e517"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2024-09-04T06:10:25.192Z"
+  },
+  "quantityAdded": 58,
+  "supplier": "JamesVendor",
+  "restockedBy": "William Hughes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e518"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2024-09-27T06:10:25.192Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "JamesVendor",
+  "restockedBy": "Scott Carter"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e519"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2025-05-27T06:10:25.192Z"
+  },
+  "quantityAdded": 72,
+  "supplier": "JamesVendor",
+  "restockedBy": "Steven Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e51a"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2025-04-20T06:10:25.193Z"
+  },
+  "quantityAdded": 26,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kelly Martin"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e51b"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2025-06-07T06:10:25.193Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "JamesVendor",
+  "restockedBy": "Craig Griffin"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e51c"
+  },
+  "productID": "PROD028",
+  "restockDate": {
+    "$date": "2024-10-17T06:10:25.193Z"
+  },
+  "quantityAdded": 50,
+  "supplier": "JamesVendor",
+  "restockedBy": "Alexis Anderson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e51d"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2024-09-22T06:10:25.193Z"
+  },
+  "quantityAdded": 51,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jonathan Nolan"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e51e"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2024-11-13T06:10:25.193Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Anthony Gonzales"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e51f"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2025-05-04T06:10:25.193Z"
+  },
+  "quantityAdded": 32,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Russell Gomez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e520"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2024-12-28T06:10:25.194Z"
+  },
+  "quantityAdded": 31,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Monica Myers"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e521"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2025-01-13T06:10:25.194Z"
+  },
+  "quantityAdded": 79,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jonathan Hall"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e522"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2025-05-11T06:10:25.194Z"
+  },
+  "quantityAdded": 44,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Angie Gordon"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e523"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2024-09-01T06:10:25.194Z"
+  },
+  "quantityAdded": 64,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Matthew Thompson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e524"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2024-11-14T06:10:25.194Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Dawn Gilbert DDS"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e525"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2025-04-20T06:10:25.194Z"
+  },
+  "quantityAdded": 48,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Teresa Fowler"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e526"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2025-04-30T06:10:25.194Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "James Little"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e527"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2025-05-10T06:10:25.195Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Aaron Martin"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e528"
+  },
+  "productID": "PROD029",
+  "restockDate": {
+    "$date": "2025-02-12T06:10:25.195Z"
+  },
+  "quantityAdded": 95,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jonathan Lowe"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e529"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2025-04-29T06:10:25.195Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Lynn Spence"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e52a"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2025-03-19T06:10:25.195Z"
+  },
+  "quantityAdded": 24,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Alison Padilla DDS"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e52b"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2024-09-29T06:10:25.196Z"
+  },
+  "quantityAdded": 97,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Monica Ramos"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e52c"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2024-11-14T06:10:25.196Z"
+  },
+  "quantityAdded": 91,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Martin King"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e52d"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2025-04-09T06:10:25.196Z"
+  },
+  "quantityAdded": 97,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Clarence Smith"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e52e"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2025-04-24T06:10:25.196Z"
+  },
+  "quantityAdded": 85,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Timothy Gutierrez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e52f"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2025-04-21T06:10:25.197Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Edward Arnold"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e530"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2024-09-20T06:10:25.197Z"
+  },
+  "quantityAdded": 24,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jeffrey Young"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e531"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2025-01-10T06:10:25.197Z"
+  },
+  "quantityAdded": 26,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Susan Gibson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e532"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2024-12-22T06:10:25.197Z"
+  },
+  "quantityAdded": 55,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Melissa Ward DVM"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e533"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2024-09-09T06:10:25.197Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Alicia Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e534"
+  },
+  "productID": "PROD030",
+  "restockDate": {
+    "$date": "2024-12-29T06:10:25.197Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Chad Greene"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e535"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2025-06-06T06:10:25.197Z"
+  },
+  "quantityAdded": 99,
+  "supplier": "JamesVendor",
+  "restockedBy": "John White Jr."
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e536"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2024-10-06T06:10:25.197Z"
+  },
+  "quantityAdded": 89,
+  "supplier": "JamesVendor",
+  "restockedBy": "Javier Woods"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e537"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2025-04-03T06:10:25.197Z"
+  },
+  "quantityAdded": 36,
+  "supplier": "JamesVendor",
+  "restockedBy": "Connie Ali"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e538"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2025-06-02T06:10:25.197Z"
+  },
+  "quantityAdded": 23,
+  "supplier": "JamesVendor",
+  "restockedBy": "Christopher Nielsen"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e539"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2024-09-11T06:10:25.198Z"
+  },
+  "quantityAdded": 68,
+  "supplier": "JamesVendor",
+  "restockedBy": "Mr. Jeffery Walker"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e53a"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2025-06-13T06:10:25.198Z"
+  },
+  "quantityAdded": 61,
+  "supplier": "JamesVendor",
+  "restockedBy": "Anthony Campbell"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e53b"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2025-04-06T06:10:25.198Z"
+  },
+  "quantityAdded": 64,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kathleen Smith"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e53c"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2025-04-16T06:10:25.198Z"
+  },
+  "quantityAdded": 61,
+  "supplier": "JamesVendor",
+  "restockedBy": "Jeffery Smith"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e53d"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2025-02-11T06:10:25.198Z"
+  },
+  "quantityAdded": 30,
+  "supplier": "JamesVendor",
+  "restockedBy": "Nicholas Meyer"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e53e"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2025-05-10T06:10:25.198Z"
+  },
+  "quantityAdded": 50,
+  "supplier": "JamesVendor",
+  "restockedBy": "Monica Galvan"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e53f"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2025-03-15T06:10:25.198Z"
+  },
+  "quantityAdded": 33,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tyler Gilbert"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e540"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2024-09-12T06:10:25.198Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "JamesVendor",
+  "restockedBy": "Timothy Pollard"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e541"
+  },
+  "productID": "PROD031",
+  "restockDate": {
+    "$date": "2024-09-06T06:10:25.198Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joshua Powell"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e542"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2025-03-03T06:10:25.198Z"
+  },
+  "quantityAdded": 91,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Nicole Alexander"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e543"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2024-09-25T06:10:25.199Z"
+  },
+  "quantityAdded": 66,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Colleen Martin"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e544"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2025-02-14T06:10:25.199Z"
+  },
+  "quantityAdded": 100,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Raymond Patel"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e545"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2025-01-23T06:10:25.199Z"
+  },
+  "quantityAdded": 71,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Susan Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e546"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2024-09-25T06:10:25.199Z"
+  },
+  "quantityAdded": 85,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Nicholas Martinez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e547"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2025-02-28T06:10:25.199Z"
+  },
+  "quantityAdded": 70,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Hannah Green"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e548"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2024-09-09T06:10:25.200Z"
+  },
+  "quantityAdded": 63,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Danielle Olsen"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e549"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2025-03-08T06:10:25.200Z"
+  },
+  "quantityAdded": 87,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Samuel Edwards"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e54a"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2024-11-10T06:10:25.200Z"
+  },
+  "quantityAdded": 63,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Joseph Kelley"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e54b"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2025-05-28T06:10:25.200Z"
+  },
+  "quantityAdded": 24,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Rose Torres"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e54c"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2024-11-20T06:10:25.200Z"
+  },
+  "quantityAdded": 70,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Gabriel Mitchell"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e54d"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2025-01-03T06:10:25.200Z"
+  },
+  "quantityAdded": 100,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jessica Benson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e54e"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2024-11-14T06:10:25.201Z"
+  },
+  "quantityAdded": 62,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Dawn Thomas"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e54f"
+  },
+  "productID": "PROD032",
+  "restockDate": {
+    "$date": "2025-03-20T06:10:25.201Z"
+  },
+  "quantityAdded": 22,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jonathan Delgado"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e550"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2024-10-20T06:10:25.201Z"
+  },
+  "quantityAdded": 82,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kim Santos"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e551"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2025-06-14T06:10:25.201Z"
+  },
+  "quantityAdded": 46,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Tyler Cowan"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e552"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2025-04-17T06:10:25.203Z"
+  },
+  "quantityAdded": 53,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Mary Perry"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e553"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2025-02-06T06:10:25.203Z"
+  },
+  "quantityAdded": 44,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Kayla Wilkinson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e554"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2025-01-06T06:10:25.203Z"
+  },
+  "quantityAdded": 32,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Lori Adams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e555"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2024-10-21T06:10:25.203Z"
+  },
+  "quantityAdded": 23,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Veronica Schmidt"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e556"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2025-01-29T06:10:25.203Z"
+  },
+  "quantityAdded": 99,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Mrs. Theresa Summers"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e557"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2025-04-18T06:10:25.203Z"
+  },
+  "quantityAdded": 60,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Michael Butler"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e558"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2024-12-28T06:10:25.203Z"
+  },
+  "quantityAdded": 70,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Jon Jones"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e559"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2024-12-30T06:10:25.203Z"
+  },
+  "quantityAdded": 58,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Tracy Perkins"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e55a"
+  },
+  "productID": "PROD033",
+  "restockDate": {
+    "$date": "2024-08-28T06:10:25.203Z"
+  },
+  "quantityAdded": 91,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Shaun Goodman"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e55b"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2025-02-25T06:10:25.204Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Patrick Bender"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e55c"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2025-03-07T06:10:25.204Z"
+  },
+  "quantityAdded": 62,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Pamela Anderson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e55d"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2025-06-12T06:10:25.204Z"
+  },
+  "quantityAdded": 31,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Stephen Farrell"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e55e"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2025-05-28T06:10:25.204Z"
+  },
+  "quantityAdded": 60,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "John Anderson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e55f"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2025-06-03T06:10:25.204Z"
+  },
+  "quantityAdded": 74,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Lisa Terry"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e560"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2025-02-06T06:10:25.204Z"
+  },
+  "quantityAdded": 82,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Dawn Wells"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e561"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2024-09-01T06:10:25.205Z"
+  },
+  "quantityAdded": 66,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Carol Bennett"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e562"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2024-10-12T06:10:25.205Z"
+  },
+  "quantityAdded": 49,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Lauren Wells"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e563"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2025-03-28T06:10:25.205Z"
+  },
+  "quantityAdded": 53,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Tyler Jackson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e564"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2025-04-03T06:10:25.205Z"
+  },
+  "quantityAdded": 64,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Savannah Hughes"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e565"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2024-12-06T06:10:25.207Z"
+  },
+  "quantityAdded": 79,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Chad Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e566"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2025-01-21T06:10:25.207Z"
+  },
+  "quantityAdded": 42,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Erica Green"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e567"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2024-10-24T06:10:25.207Z"
+  },
+  "quantityAdded": 24,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Emily Foster"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e568"
+  },
+  "productID": "PROD034",
+  "restockDate": {
+    "$date": "2024-10-22T06:10:25.207Z"
+  },
+  "quantityAdded": 92,
+  "supplier": "FreshDrop Distributors",
+  "restockedBy": "Bruce Ortiz"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e569"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2024-10-10T06:10:25.207Z"
+  },
+  "quantityAdded": 90,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Steven Williams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e56a"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2025-01-12T06:10:25.207Z"
+  },
+  "quantityAdded": 86,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Terry Baker"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e56b"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2025-03-10T06:10:25.208Z"
+  },
+  "quantityAdded": 27,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Gregory Franco"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e56c"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2025-03-14T06:10:25.208Z"
+  },
+  "quantityAdded": 20,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Gabriel Melton"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e56d"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2025-03-23T06:10:25.208Z"
+  },
+  "quantityAdded": 40,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Sandra Smith"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e56e"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2025-04-22T06:10:25.208Z"
+  },
+  "quantityAdded": 72,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jennifer Williams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e56f"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2024-12-08T06:10:25.208Z"
+  },
+  "quantityAdded": 79,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Crystal Trevino"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e570"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2025-02-01T06:10:25.208Z"
+  },
+  "quantityAdded": 25,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Leslie Bruce"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e571"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2024-10-31T06:10:25.209Z"
+  },
+  "quantityAdded": 21,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Rebecca Stevens"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e572"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2024-10-12T06:10:25.209Z"
+  },
+  "quantityAdded": 27,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Richard Lowe"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e573"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2025-05-29T06:10:25.209Z"
+  },
+  "quantityAdded": 20,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Daniel Riley"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e574"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2024-12-18T06:10:25.209Z"
+  },
+  "quantityAdded": 60,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Kayla Kim"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e575"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2025-04-08T06:10:25.209Z"
+  },
+  "quantityAdded": 31,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Nicole Hebert"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e576"
+  },
+  "productID": "PROD035",
+  "restockDate": {
+    "$date": "2024-10-16T06:10:25.209Z"
+  },
+  "quantityAdded": 43,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Thomas Wheeler"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e577"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-01-03T06:10:25.210Z"
+  },
+  "quantityAdded": 85,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Joshua Randall"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e578"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-03-18T06:10:25.210Z"
+  },
+  "quantityAdded": 61,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Desiree Norton"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e579"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-05-11T06:10:25.210Z"
+  },
+  "quantityAdded": 39,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Christopher Powell"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e57a"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-03-04T06:10:25.210Z"
+  },
+  "quantityAdded": 63,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Joshua Andrews"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e57b"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2024-12-16T06:10:25.210Z"
+  },
+  "quantityAdded": 25,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Timothy Riley"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e57c"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-04-28T06:10:25.210Z"
+  },
+  "quantityAdded": 92,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Aaron Fisher"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e57d"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-03-02T06:10:25.210Z"
+  },
+  "quantityAdded": 93,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Charles Snyder"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e57e"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-03-23T06:10:25.211Z"
+  },
+  "quantityAdded": 53,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Anthony Dean"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e57f"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-06-02T06:10:25.211Z"
+  },
+  "quantityAdded": 68,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Travis Miller"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e580"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2024-12-21T06:10:25.211Z"
+  },
+  "quantityAdded": 35,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Joshua Austin"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e581"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-01-26T06:10:25.211Z"
+  },
+  "quantityAdded": 86,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "John Hernandez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e582"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2024-09-25T06:10:25.212Z"
+  },
+  "quantityAdded": 72,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Lindsey Hicks"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e583"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2025-05-27T06:10:25.212Z"
+  },
+  "quantityAdded": 63,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Sean Franco"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e584"
+  },
+  "productID": "PROD036",
+  "restockDate": {
+    "$date": "2024-10-16T06:10:25.212Z"
+  },
+  "quantityAdded": 63,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Glenn Stone"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e585"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2024-12-27T06:10:25.212Z"
+  },
+  "quantityAdded": 35,
+  "supplier": "JamesVendor",
+  "restockedBy": "Aaron Miles DVM"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e586"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2024-10-09T06:10:25.212Z"
+  },
+  "quantityAdded": 63,
+  "supplier": "JamesVendor",
+  "restockedBy": "Rodney Gonzalez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e587"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-05-12T06:10:25.212Z"
+  },
+  "quantityAdded": 43,
+  "supplier": "JamesVendor",
+  "restockedBy": "Oscar Rowe"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e588"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2024-11-08T06:10:25.213Z"
+  },
+  "quantityAdded": 34,
+  "supplier": "JamesVendor",
+  "restockedBy": "Corey Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e589"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-03-04T06:10:25.213Z"
+  },
+  "quantityAdded": 23,
+  "supplier": "JamesVendor",
+  "restockedBy": "Dustin Lewis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e58a"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-04-07T06:10:25.213Z"
+  },
+  "quantityAdded": 52,
+  "supplier": "JamesVendor",
+  "restockedBy": "Daniel Murray"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e58b"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-03-24T06:10:25.213Z"
+  },
+  "quantityAdded": 40,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kristen Nixon"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e58c"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-03-03T06:10:25.213Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "JamesVendor",
+  "restockedBy": "Joseph Parsons"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e58d"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-04-07T06:10:25.213Z"
+  },
+  "quantityAdded": 52,
+  "supplier": "JamesVendor",
+  "restockedBy": "Melissa Miles"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e58e"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-05-07T06:10:25.213Z"
+  },
+  "quantityAdded": 78,
+  "supplier": "JamesVendor",
+  "restockedBy": "Donald Arias"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e58f"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-03-08T06:10:25.213Z"
+  },
+  "quantityAdded": 26,
+  "supplier": "JamesVendor",
+  "restockedBy": "Erica Allen"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e590"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-05-17T06:10:25.213Z"
+  },
+  "quantityAdded": 39,
+  "supplier": "JamesVendor",
+  "restockedBy": "Margaret Lutz"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e591"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-04-16T06:10:25.214Z"
+  },
+  "quantityAdded": 73,
+  "supplier": "JamesVendor",
+  "restockedBy": "Donna Key"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e592"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-02-24T06:10:25.214Z"
+  },
+  "quantityAdded": 77,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tyler Sharp"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e593"
+  },
+  "productID": "PROD037",
+  "restockDate": {
+    "$date": "2025-05-22T06:10:25.214Z"
+  },
+  "quantityAdded": 26,
+  "supplier": "JamesVendor",
+  "restockedBy": "Kurt Peterson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e594"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2024-11-30T06:10:25.214Z"
+  },
+  "quantityAdded": 49,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Martha Ramos"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e595"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2024-09-26T06:10:25.214Z"
+  },
+  "quantityAdded": 75,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Joseph Davis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e596"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2025-04-03T06:10:25.215Z"
+  },
+  "quantityAdded": 51,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "William Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e597"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2025-03-29T06:10:25.215Z"
+  },
+  "quantityAdded": 54,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Briana Wise"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e598"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2025-06-03T06:10:25.215Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "James Lee"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e599"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2025-03-17T06:10:25.216Z"
+  },
+  "quantityAdded": 46,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Ms. Kathleen Maynard"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e59a"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2024-11-08T06:10:25.216Z"
+  },
+  "quantityAdded": 72,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "John Cole"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e59b"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2024-10-11T06:10:25.216Z"
+  },
+  "quantityAdded": 65,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Bobby Calhoun"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e59c"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2025-03-16T06:10:25.216Z"
+  },
+  "quantityAdded": 26,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Danielle David"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e59d"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2024-12-04T06:10:25.216Z"
+  },
+  "quantityAdded": 43,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Barry Mcdowell"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e59e"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2025-01-27T06:10:25.216Z"
+  },
+  "quantityAdded": 66,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Sergio Castillo"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e59f"
+  },
+  "productID": "PROD038",
+  "restockDate": {
+    "$date": "2025-05-13T06:10:25.217Z"
+  },
+  "quantityAdded": 55,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Maria Cardenas"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a0"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2024-11-23T06:10:25.217Z"
+  },
+  "quantityAdded": 59,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jeremy Horton"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a1"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2024-09-04T06:10:25.217Z"
+  },
+  "quantityAdded": 81,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Stacey Morton"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a2"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2025-06-14T06:10:25.217Z"
+  },
+  "quantityAdded": 85,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jeffrey Esparza"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a3"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2025-03-15T06:10:25.217Z"
+  },
+  "quantityAdded": 70,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Scott Jones"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a4"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2025-05-10T06:10:25.217Z"
+  },
+  "quantityAdded": 83,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Ashley Kelly"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a5"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2025-03-29T06:10:25.217Z"
+  },
+  "quantityAdded": 49,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Mark Weaver"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a6"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2025-04-16T06:10:25.218Z"
+  },
+  "quantityAdded": 34,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Maria Keller"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a7"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2024-10-09T06:10:25.218Z"
+  },
+  "quantityAdded": 36,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Sandra Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a8"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2025-02-24T06:10:25.218Z"
+  },
+  "quantityAdded": 75,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Jaclyn Choi"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5a9"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2025-02-24T06:10:25.218Z"
+  },
+  "quantityAdded": 95,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Lance Mcclain"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5aa"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2024-11-26T06:10:25.218Z"
+  },
+  "quantityAdded": 60,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "John Watkins"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5ab"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2024-10-02T06:10:25.218Z"
+  },
+  "quantityAdded": 56,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Leah Bryan"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5ac"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2024-09-21T06:10:25.218Z"
+  },
+  "quantityAdded": 42,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "John Alvarado"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5ad"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2025-05-25T06:10:25.218Z"
+  },
+  "quantityAdded": 89,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Paul Pacheco"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5ae"
+  },
+  "productID": "PROD039",
+  "restockDate": {
+    "$date": "2025-03-01T06:10:25.218Z"
+  },
+  "quantityAdded": 51,
+  "supplier": "CarePlus Wholesale",
+  "restockedBy": "Rhonda Figueroa"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5af"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2024-10-27T06:10:25.218Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "JamesVendor",
+  "restockedBy": "Marcus Tucker"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b0"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2024-10-05T06:10:25.218Z"
+  },
+  "quantityAdded": 58,
+  "supplier": "JamesVendor",
+  "restockedBy": "Tiffany Boyle"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b1"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2024-10-08T06:10:25.218Z"
+  },
+  "quantityAdded": 67,
+  "supplier": "JamesVendor",
+  "restockedBy": "Steven Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b2"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2024-11-21T06:10:25.219Z"
+  },
+  "quantityAdded": 41,
+  "supplier": "JamesVendor",
+  "restockedBy": "Adam Diaz"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b3"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2025-05-17T06:10:25.219Z"
+  },
+  "quantityAdded": 44,
+  "supplier": "JamesVendor",
+  "restockedBy": "Charles Stewart"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b4"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2025-05-15T06:10:25.219Z"
+  },
+  "quantityAdded": 34,
+  "supplier": "JamesVendor",
+  "restockedBy": "Daniel Jordan"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b5"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2024-11-12T06:10:25.219Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "JamesVendor",
+  "restockedBy": "Misty Nguyen"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b6"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2024-10-13T06:10:25.219Z"
+  },
+  "quantityAdded": 97,
+  "supplier": "JamesVendor",
+  "restockedBy": "Michelle Hahn"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b7"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2024-09-11T06:10:25.219Z"
+  },
+  "quantityAdded": 55,
+  "supplier": "JamesVendor",
+  "restockedBy": "Shannon Murray"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b8"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2025-06-12T06:10:25.219Z"
+  },
+  "quantityAdded": 84,
+  "supplier": "JamesVendor",
+  "restockedBy": "Robert Davis"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5b9"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2024-08-28T06:10:25.219Z"
+  },
+  "quantityAdded": 94,
+  "supplier": "JamesVendor",
+  "restockedBy": "Heather Perez"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5ba"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2024-10-19T06:10:25.219Z"
+  },
+  "quantityAdded": 99,
+  "supplier": "JamesVendor",
+  "restockedBy": "Mr. Bradley Pierce"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5bb"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2025-02-10T06:10:25.219Z"
+  },
+  "quantityAdded": 99,
+  "supplier": "JamesVendor",
+  "restockedBy": "Rhonda Mata"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5bc"
+  },
+  "productID": "PROD040",
+  "restockDate": {
+    "$date": "2025-04-20T06:10:25.219Z"
+  },
+  "quantityAdded": 45,
+  "supplier": "JamesVendor",
+  "restockedBy": "Aaron Roberson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5bd"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2024-12-12T06:10:25.219Z"
+  },
+  "quantityAdded": 41,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Robin Pierce MD"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5be"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2025-04-04T06:10:25.219Z"
+  },
+  "quantityAdded": 65,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "John Cox"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5bf"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2024-11-12T06:10:25.220Z"
+  },
+  "quantityAdded": 46,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Hannah Jones"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5c0"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2025-05-18T06:10:25.220Z"
+  },
+  "quantityAdded": 44,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Lisa Adams"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5c1"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2024-12-15T06:10:25.220Z"
+  },
+  "quantityAdded": 69,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Eileen Hill"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5c2"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2025-06-07T06:10:25.220Z"
+  },
+  "quantityAdded": 32,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Jeffrey Hanson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5c3"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2025-05-05T06:10:25.220Z"
+  },
+  "quantityAdded": 47,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Tyler Johnson"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5c4"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2024-10-01T06:10:25.220Z"
+  },
+  "quantityAdded": 45,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Melanie Walker"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5c5"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2024-09-22T06:10:25.220Z"
+  },
+  "quantityAdded": 99,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Nicole Ayala"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5c6"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2025-01-05T06:10:25.220Z"
+  },
+  "quantityAdded": 46,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Lindsey Graves"
+},
+{
+  "_id": {
+    "$oid": "685a33418f1e5a54d932e5c7"
+  },
+  "productID": "PROD041",
+  "restockDate": {
+    "$date": "2025-01-21T06:10:25.220Z"
+  },
+  "quantityAdded": 53,
+  "supplier": "HealthFirst Supplies",
+  "restockedBy": "Jason Wilson"
+},
+{
+  "_id": {
+    "$oid": "6860023a9230259adb4925c7"
+  },
+  "productID": "PROD001",
+  "restockDate": {
+    "$date": "2025-06-28T15:54:50.054Z"
+  },
+  "quantityAdded": 62,
+  "supplier": "JamesVendor",
+  "restockedBy": "Emily Young"
+}]

@@ -1,0 +1,559 @@
+[{
+  "_id": 1,
+  "productID": "PROD001",
+  "name": "Paracetamol 500mg",
+  "category": "Health",
+  "price": 100,
+  "supplier": "JamesVendor",
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2023-01-01T00:00:00.000Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 2,
+  "productID": "PROD002",
+  "name": "Ibuprofen 200mg",
+  "category": "Personal Care",
+  "supplier": "CarePlus Wholesale",
+  "price": 313.64,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2024-02-25T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 3,
+  "productID": "PROD003",
+  "name": "Orange Juice 1L",
+  "category": "Stationery",
+  "supplier": "JamesVendor",
+  "price": 497.71,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2024-06-26T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 4,
+  "productID": "PROD004",
+  "name": "Antacid Tablets",
+  "category": "Personal Care",
+  "supplier": "JamesVendor",
+  "price": 1200.92,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2025-02-03T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 5,
+  "productID": "PROD005",
+  "name": "Soft Drink Can",
+  "category": "Personal Care",
+  "supplier": "CarePlus Wholesale",
+  "price": 536.06,
+  "unit": "can",
+  "createdAt": {
+    "$date": "2025-05-26T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 6,
+  "productID": "PROD006",
+  "name": "Antacid Tablets",
+  "category": "Cleaning Supplies",
+  "supplier": "JamesVendor",
+  "price": 508.96,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2024-05-09T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 7,
+  "productID": "PROD007",
+  "name": "Energy Drink",
+  "category": "Personal Care",
+  "supplier": "CarePlus Wholesale",
+  "price": 505.9,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2023-11-29T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 8,
+  "productID": "PROD008",
+  "name": "Ibuprofen 200mg",
+  "category": "Snacks",
+  "supplier": "CarePlus Wholesale",
+  "price": 477.4,
+  "unit": "can",
+  "createdAt": {
+    "$date": "2025-05-05T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 9,
+  "productID": "PROD009",
+  "name": "Vitamin C Tablets",
+  "category": "Baby Care",
+  "supplier": "FreshDrop Distributors",
+  "price": 268.16,
+  "unit": "can",
+  "createdAt": {
+    "$date": "2023-12-16T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 10,
+  "productID": "PROD010",
+  "name": "Cough Syrup",
+  "category": "Household",
+  "supplier": "JamesVendor",
+  "price": 508.39,
+  "unit": "bottle",
+  "createdAt": {
+    "$date": "2024-07-21T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 11,
+  "productID": "PROD011",
+  "name": "Paracetamol 500mg",
+  "category": "Stationery",
+  "supplier": "JamesVendor",
+  "price": 748.49,
+  "unit": "bottle",
+  "createdAt": {
+    "$date": "2023-07-01T22:26:33.438Z"
+  },
+  "isActive": false
+},
+{
+  "_id": 12,
+  "productID": "PROD012",
+  "name": "Shampoo 250ml",
+  "category": "Groceries",
+  "supplier": "HealthFirst Supplies",
+  "price": 1018.08,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2025-05-26T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 13,
+  "productID": "PROD013",
+  "name": "Ibuprofen 200mg",
+  "category": "Health",
+  "supplier": "JamesVendor",
+  "price": 940.23,
+  "unit": "can",
+  "createdAt": {
+    "$date": "2024-02-11T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 14,
+  "productID": "PROD014",
+  "name": "Toothbrush Medium",
+  "category": "Beverages",
+  "supplier": "JamesVendor",
+  "price": 226.03,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2024-07-09T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 15,
+  "productID": "PROD015",
+  "name": "Rice 5kg",
+  "category": "Household",
+  "supplier": "FreshDrop Distributors",
+  "price": 589.86,
+  "unit": "can",
+  "createdAt": {
+    "$date": "2025-02-20T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 16,
+  "productID": "PROD016",
+  "name": "Energy Drink",
+  "category": "Baby Care",
+  "supplier": "CarePlus Wholesale",
+  "price": 601.41,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2025-04-29T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 17,
+  "productID": "PROD017",
+  "name": "Antacid Tablets",
+  "category": "Cleaning Supplies",
+  "supplier": "JamesVendor",
+  "price": 562.71,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2024-05-15T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 18,
+  "productID": "PROD018",
+  "name": "Ibuprofen 200mg",
+  "category": "Snacks",
+  "supplier": "HealthFirst Supplies",
+  "price": 527.64,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2024-04-15T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 19,
+  "productID": "PROD019",
+  "name": "Bottled Water 75cl",
+  "category": "Snacks",
+  "supplier": "JamesVendor",
+  "price": 426.03,
+  "unit": "bottle",
+  "createdAt": {
+    "$date": "2023-07-20T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 20,
+  "productID": "PROD020",
+  "name": "Ibuprofen 200mg",
+  "category": "Snacks",
+  "supplier": "FreshDrop Distributors",
+  "price": 1012.97,
+  "unit": "can",
+  "createdAt": {
+    "$date": "2023-07-24T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 21,
+  "productID": "PROD021",
+  "name": "Vitamin C Tablets",
+  "category": "Household",
+  "supplier": "JamesVendor",
+  "price": 749.69,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2023-09-12T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 22,
+  "productID": "PROD022",
+  "name": "Toilet Paper (4 rolls)",
+  "category": "Snacks",
+  "supplier": "FreshDrop Distributors",
+  "price": 271.11,
+  "unit": "bottle",
+  "createdAt": {
+    "$date": "2024-08-10T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 23,
+  "productID": "PROD023",
+  "name": "Shampoo 250ml",
+  "category": "Pet Supplies",
+  "supplier": "FreshDrop Distributors",
+  "price": 537.87,
+  "unit": "bottle",
+  "createdAt": {
+    "$date": "2025-01-04T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 24,
+  "productID": "PROD024",
+  "name": "Antacid Tablets",
+  "category": "Pet Supplies",
+  "supplier": "CarePlus Wholesale",
+  "price": 1244.18,
+  "unit": "sachet",
+  "createdAt": {
+    "$date": "2024-05-06T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 25,
+  "productID": "PROD025",
+  "name": "Energy Drink",
+  "category": "Beverages",
+  "supplier": "FreshDrop Distributors",
+  "price": 345.33,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2024-05-14T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 26,
+  "productID": "PROD026",
+  "name": "Body Lotion",
+  "category": "Baby Care",
+  "supplier": "JamesVendor",
+  "price": 1233.63,
+  "unit": "bottle",
+  "createdAt": {
+    "$date": "2024-01-10T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 27,
+  "productID": "PROD027",
+  "name": "Toothpaste 100ml",
+  "category": "Cleaning Supplies",
+  "supplier": "JamesVendor",
+  "price": 538.99,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2024-09-11T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 28,
+  "productID": "PROD028",
+  "name": "Antiseptic Liquid",
+  "category": "Household",
+  "supplier": "JamesVendor",
+  "price": 349.69,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2024-05-29T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 29,
+  "productID": "PROD029",
+  "name": "Soft Drink Can",
+  "category": "Cleaning Supplies",
+  "supplier": "CarePlus Wholesale",
+  "price": 1423.85,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2025-01-02T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 30,
+  "productID": "PROD030",
+  "name": "Antiseptic Liquid",
+  "category": "Health",
+  "supplier": "CarePlus Wholesale",
+  "price": 482,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2023-12-18T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 31,
+  "productID": "PROD031",
+  "name": "Orange Juice 1L",
+  "category": "Stationery",
+  "supplier": "JamesVendor",
+  "price": 700.61,
+  "unit": "sachet",
+  "createdAt": {
+    "$date": "2025-02-18T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 32,
+  "productID": "PROD032",
+  "name": "Orange Juice 1L",
+  "category": "Cleaning Supplies",
+  "supplier": "CarePlus Wholesale",
+  "price": 1028.7,
+  "unit": "can",
+  "createdAt": {
+    "$date": "2023-11-29T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 33,
+  "productID": "PROD033",
+  "name": "Laundry Detergent",
+  "category": "Snacks",
+  "supplier": "FreshDrop Distributors",
+  "price": 866.23,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2025-05-21T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 34,
+  "productID": "PROD034",
+  "name": "Antiseptic Liquid",
+  "category": "Household",
+  "supplier": "FreshDrop Distributors",
+  "price": 351.38,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2025-03-31T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 35,
+  "productID": "PROD035",
+  "name": "Ibuprofen 200mg",
+  "category": "Baby Care",
+  "supplier": "CarePlus Wholesale",
+  "price": 802.21,
+  "unit": "can",
+  "createdAt": {
+    "$date": "2025-01-11T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 36,
+  "productID": "PROD036",
+  "name": "Bottled Water 75cl",
+  "category": "Stationery",
+  "supplier": "CarePlus Wholesale",
+  "price": 1209.56,
+  "unit": "bottle",
+  "createdAt": {
+    "$date": "2023-11-14T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 37,
+  "productID": "PROD037",
+  "name": "Margarine 250g",
+  "category": "Cleaning Supplies",
+  "supplier": "JamesVendor",
+  "price": 924.87,
+  "unit": "sachet",
+  "createdAt": {
+    "$date": "2023-09-08T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 38,
+  "productID": "PROD038",
+  "name": "Laundry Detergent",
+  "category": "Household",
+  "supplier": "HealthFirst Supplies",
+  "price": 647.29,
+  "unit": "bottle",
+  "createdAt": {
+    "$date": "2023-09-05T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 39,
+  "productID": "PROD039",
+  "name": "Toilet Paper (4 rolls)",
+  "category": "Cleaning Supplies",
+  "supplier": "CarePlus Wholesale",
+  "price": 1289.29,
+  "unit": "piece",
+  "createdAt": {
+    "$date": "2023-12-18T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 40,
+  "productID": "PROD040",
+  "name": "Toilet Paper (4 rolls)",
+  "category": "Beverages",
+  "supplier": "JamesVendor",
+  "price": 1032.48,
+  "unit": "can",
+  "createdAt": {
+    "$date": "2025-01-11T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 41,
+  "productID": "PROD041",
+  "name": "Shampoo 250ml",
+  "category": "Snacks",
+  "supplier": "HealthFirst Supplies",
+  "price": 1373.37,
+  "unit": "pack",
+  "createdAt": {
+    "$date": "2023-09-08T22:26:33.438Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 42,
+  "productID": "PROD042",
+  "name": "Dettol Soap",
+  "category": "Personal Care",
+  "supplier": "FreshSupplier",
+  "price": 299.99,
+  "unit": "bar",
+  "createdAt": {
+    "$date": "2025-06-24T06:54:39.201Z"
+  },
+  "isActive": true
+},
+{
+  "_id": 43,
+  "productID": "PROD043",
+  "name": "Dettol Soap",
+  "category": "Personal Care",
+  "supplier": "FreshSupplier",
+  "price": 299.99,
+  "unit": "bar",
+  "createdAt": {
+    "$date": "2025-06-24T06:55:35.352Z"
+  },
+  "isActive": true
+}]
